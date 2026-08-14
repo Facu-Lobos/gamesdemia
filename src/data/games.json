@@ -1,16 +1,24 @@
 {
   "meta": {
-    "offerExpiration": "15/07/2026",
-    "totalCount": 190,
-    "generatedAt": "2026-07-05T23:37:40.604Z",
-    "sourceFile": "lista_juegos.pdf"
+    "offerExpiration": "24/08/2026",
+    "totalCount": 182,
+    "generatedAt": "2026-08-13T20:08:48.776Z",
+    "sourceFile": "lista_proveedor.txt"
   },
   "games": [
+    {
+      "id": "a-quiet-place-the-road-ahead",
+      "title": "A Quiet Place: The Road Ahead",
+      "platform": "PS5",
+      "priceArs": 12500,
+      "videoId": "s43X4yHn8G0",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/127308-1.jpg"
+    },
     {
       "id": "aew-fight-forever",
       "title": "AEW: Fight Forever",
       "platform": "PS4/PS5",
-      "priceArs": 22648,
+      "priceArs": 16500,
       "videoId": "6-GlVO_xgnw",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/aa1/aa1c93d45df7ae07789f532432730130.jpg"
     },
@@ -18,119 +26,111 @@
       "id": "age-of-empires-ii-definitive-edition-premium-edition",
       "title": "Age of Empires II: Definitive Edition Premium Edition",
       "platform": "PS5",
-      "priceArs": 54720,
+      "priceArs": 40500,
       "videoId": "24VGBMYV0b4",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/e90/e90a4f0b878b0206888a56c4155705c8.jpg"
+    },
+    {
+      "id": "agents-of-mayhem",
+      "title": "Agents of Mayhem",
+      "platform": "PS4/PS5",
+      "priceArs": 4500,
+      "videoId": "8ASqXH6uN_A",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/49326-1.jpg"
     },
     {
       "id": "alone-in-the-dark",
       "title": "Alone in the Dark",
       "platform": "PS5",
-      "priceArs": 28880,
+      "priceArs": 20500,
       "videoId": "fD0Z9bbNcrk",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/719/7197c4abfd5cfac909548dce23b74daa.jpg"
+    },
+    {
+      "id": "another-crab-s-treasure",
+      "title": "Another Crab's Treasure",
+      "platform": "PS5",
+      "priceArs": 15000,
+      "videoId": "aQd-EhmRQiM",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/126348-1.jpg"
     },
     {
       "id": "assassin-s-creed-iii-remastered",
       "title": "Assassin's Creed III Remastered",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
+      "priceArs": 15000,
       "videoId": "pNT2j_isyBc",
       "coverImageUrl": "https://media.rawg.io/media/games/275/2759da6fcaa8f81f21800926168c85f6.jpg"
     },
     {
       "id": "assassin-s-creed-mirage-master-assassin-edition",
-      "title": "Assassin’s Creed Mirage Master Assassin Edition",
+      "title": "Assassin's Creed Mirage - Master Assassin Edition",
       "platform": "PS4/PS5",
-      "priceArs": 52592,
+      "priceArs": 39000,
       "videoId": "TSueKwFhHU4",
       "coverImageUrl": "https://media.rawg.io/media/games/fbd/fbd0128013b7965904be571e75fb30c0.jpg"
     },
     {
-      "id": "assassin-s-creed-mythology-pack",
-      "title": "Assassin's Creed Mythology pack",
+      "id": "assassin-s-creed-odyssey-ultimate-edition-espanol",
+      "title": "Assassin's Creed Odyssey - ULTIMATE EDITION ESPAÑOL",
       "platform": "PS4/PS5",
-      "priceArs": 47424,
-      "videoId": "U_oApLtPexQ",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/c91/c91b1a7aabc44031dc7511a7a6633a80.jpg"
+      "priceArs": 27000,
+      "videoId": "g4LNAQqvTwg",
+      "coverImageUrl": "https://media.rawg.io/media/games/c6b/c6bd26767c1053fef2b10bb852943559.jpg"
     },
     {
       "id": "assassin-s-creed-odyssey-espanol",
       "title": "Assassin's Creed Odyssey ESPAÑOL",
       "platform": "PS4/PS5",
-      "priceArs": 20064,
+      "priceArs": 15000,
       "videoId": "g4LNAQqvTwg",
       "coverImageUrl": "https://media.rawg.io/media/games/c6b/c6bd26767c1053fef2b10bb852943559.jpg"
     },
     {
-      "id": "assassin-s-creed-odyssey-ultimate-edition-espanol",
-      "title": "Assassin's Creed Odyssey ULTIMATE EDITION ESPAÑOL",
+      "id": "assassin-s-creed-origins-gold-edition",
+      "title": "Assassin's Creed Origins - GOLD EDITION",
       "platform": "PS4/PS5",
-      "priceArs": 37544,
-      "videoId": "g4LNAQqvTwg",
-      "coverImageUrl": "https://media.rawg.io/media/games/c6b/c6bd26767c1053fef2b10bb852943559.jpg"
-    },
-    {
-      "id": "assassin-s-creed-odyssey-ultimate-edition-ingles",
-      "title": "Assassin's Creed Odyssey ULTIMATE EDITION INGLÉS",
-      "platform": "PS4/PS5",
-      "priceArs": 11360,
-      "videoId": "6F8L3d_OIE0",
-      "coverImageUrl": "https://media.rawg.io/media/games/c6b/c6bd26767c1053fef2b10bb852943559.jpg"
-    },
-    {
-      "id": "assassin-s-creed-origins",
-      "title": "Assassin’s Creed Origins",
-      "platform": "PS4/PS5",
-      "priceArs": 15352,
+      "priceArs": 11000,
       "videoId": "YQkbwIir3qk",
-      "coverImageUrl": "https://media.rawg.io/media/games/336/336c6bd63d83cf8e59937ab8895d1240.jpg"
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/50681-1.jpg"
     },
     {
-      "id": "assassin-s-creed-origins-deluxe-edition",
-      "title": "Assassin's Creed Origins DELUXE EDITION",
+      "id": "assassin-s-creed-rogue-remastered",
+      "title": "Assassin's Creed Rogue Remastered",
       "platform": "PS4/PS5",
-      "priceArs": 18088,
-      "videoId": "KGn6gvXwGJE",
-      "coverImageUrl": "https://media.rawg.io/media/games/336/336c6bd63d83cf8e59937ab8895d1240.jpg"
+      "priceArs": 11500,
+      "videoId": "bjSy5kF6io0",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/22472-1.jpg"
     },
     {
       "id": "assassin-s-creed-the-ezio-collection",
-      "title": "Assassin’s Creed The Ezio Collection",
+      "title": "Assassin's Creed The Ezio Collection",
       "platform": "PS4/PS5",
-      "priceArs": 20064,
+      "priceArs": 15000,
       "videoId": "Dz4b-P9uw4I",
       "coverImageUrl": "https://media.rawg.io/media/games/efd/efd50d3cf0ebe96aa77b81e29ea3540f.jpg"
     },
     {
-      "id": "assassin-s-creed-valhalla-complete-edition-espanol-latino",
-      "title": "Assassin's Creed Valhalla Complete Edition ESPAÑOL LATINO",
+      "id": "assassin-s-creed-unity",
+      "title": "Assassin's Creed Unity",
       "platform": "PS4/PS5",
-      "priceArs": 48640,
-      "videoId": "lHtytAZHT2k",
-      "coverImageUrl": "https://media.rawg.io/media/games/934/9346092ae11bf7582c883869468171cc.jpg"
+      "priceArs": 10000,
+      "videoId": "UL11MyWoP0U",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/21411-1.jpg"
     },
     {
-      "id": "assassin-s-creed-valhalla-espanol-latino",
-      "title": "Assassin's Creed Valhalla ESPAÑOL LATINO",
+      "id": "assassin-s-creedmirage-espanol",
+      "title": "Assassin's CreedMirage ESPAÑOL",
       "platform": "PS4/PS5",
-      "priceArs": 23864,
-      "videoId": "VVX7DRyjE60",
-      "coverImageUrl": "https://media.rawg.io/media/games/934/9346092ae11bf7582c883869468171cc.jpg"
-    },
-    {
-      "id": "back-4-blood-deluxe-edition",
-      "title": "Back 4 Blood: Deluxe Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 8640,
-      "videoId": "xBqyPu9txzw",
-      "coverImageUrl": "https://media.rawg.io/media/games/4fe/4feffcec6315c5f5a96442a8444431ca.jpg"
+      "priceArs": 21500,
+      "videoId": "tSnW0yA8NB0",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/104301-1.jpg"
     },
     {
       "id": "batman-arkham-knight",
       "title": "Batman: Arkham Knight",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
+      "priceArs": 8500,
       "videoId": "dxa34RatmSc",
       "coverImageUrl": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
     },
@@ -138,31 +138,31 @@
       "id": "battlefield-1",
       "title": "Battlefield 1",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
+      "priceArs": 8500,
       "videoId": "4pY3hlQEOc0",
       "coverImageUrl": "https://media.rawg.io/media/games/998/9980c4296f311d8bcc5b451ca51e4fe1.jpg"
     },
     {
-      "id": "battlefield-2042",
-      "title": "Battlefield 2042",
+      "id": "battlefield-2042-espanol-latino",
+      "title": "Battlefield 2042 ESPAÑOL LATINO",
       "platform": "PS4",
-      "priceArs": 20064,
-      "videoId": "WomAGoEh-Ss",
-      "coverImageUrl": "https://media.rawg.io/media/games/af2/af2b640fa820e8a8135948a4cd399539.jpg"
+      "priceArs": 15000,
+      "videoId": "ASzOzrB-a9E",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/92289-1.jpg"
     },
     {
-      "id": "battlefield-2042-1",
-      "title": "Battlefield 2042",
+      "id": "battlefield-2042-espanol-latino-1",
+      "title": "Battlefield 2042 ESPAÑOL LATINO",
       "platform": "PS5",
-      "priceArs": 22648,
+      "priceArs": 16500,
       "videoId": "ASzOzrB-a9E",
-      "coverImageUrl": "https://media.rawg.io/media/games/af2/af2b640fa820e8a8135948a4cd399539.jpg"
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/92289-1.jpg"
     },
     {
       "id": "battlefield-4",
       "title": "Battlefield 4",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
+      "priceArs": 8500,
       "videoId": "hl-VV9loYLw",
       "coverImageUrl": "https://media.rawg.io/media/games/ac7/ac7b8327343da12c971cfc418f390a11.jpg"
     },
@@ -170,7 +170,7 @@
       "id": "battlefield-v",
       "title": "Battlefield V",
       "platform": "PS4/PS5",
-      "priceArs": 20064,
+      "priceArs": 15000,
       "videoId": "9OTkhsJUK0U",
       "coverImageUrl": "https://media.rawg.io/media/games/45b/45b57ed59de4b84effd8f6bc4b7bf515.jpg"
     },
@@ -178,87 +178,130 @@
       "id": "bayonetta",
       "title": "Bayonetta",
       "platform": "PS4/PS5",
-      "priceArs": 12480,
+      "priceArs": 8500,
       "videoId": "3DIZQfL8phk",
       "coverImageUrl": "https://media.rawg.io/media/games/bee/bee483efadcf9d7e657e52184316a34e.jpg"
     },
     {
-      "id": "beyond-two-souls",
-      "title": "BEYOND: Two Souls",
+      "id": "ben-10",
+      "title": "Ben 10",
       "platform": "PS4/PS5",
-      "priceArs": 20064,
-      "videoId": "MtEoS0MaNyA",
-      "coverImageUrl": "https://media.rawg.io/media/games/07a/07a74470a2618fd71945db0619602baf.jpg"
+      "priceArs": 11000,
+      "videoId": "5FiPbBs8ovo",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/56160-1.jpg"
+    },
+    {
+      "id": "ben-10-lote",
+      "title": "Ben 10 Lote",
+      "platform": "PS4/PS5",
+      "priceArs": 17500,
+      "videoId": "RDPLEqhpjsM"
+    },
+    {
+      "id": "black-myth-wukong",
+      "title": "Black Myth: Wukong",
+      "platform": "PS5",
+      "priceArs": 45000,
+      "videoId": "pnSsgRJmsCc",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/121429-1.jpg"
     },
     {
       "id": "blasphemous-2-mea-culpa-edition",
-      "title": "Blasphemous 2 Mea Culpa Edition",
+      "title": "Blasphemous 2 - Mea Culpa Edition",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
+      "priceArs": 12500,
       "videoId": "ddFqupVTVLc",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/d72/d728690bac6a81ae1e609f90ba87c49f.jpg"
     },
     {
-      "id": "bloodborne",
-      "title": "Bloodborne",
+      "id": "blue-prince",
+      "title": "Blue Prince",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "videoId": "2lgMqmczc28",
-      "coverImageUrl": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg"
+      "priceArs": 20500,
+      "videoId": "jdRnQzfp2ks",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/131331-1.jpg"
     },
     {
       "id": "bob-esponja-the-cosmic-shake",
       "title": "Bob Esponja: The Cosmic Shake",
       "platform": "PS4/PS5",
-      "priceArs": 33744,
+      "priceArs": 25000,
       "videoId": "HQyiL4InF6g",
       "coverImageUrl": "https://media.rawg.io/media/games/678/67805379742d1880cd1177676699238c.jpg"
     },
     {
-      "id": "bratz-flaunt-your-fashion-complete-edition",
-      "title": "Bratz: Flaunt Your Fashion Complete Edition",
+      "id": "bully-canis-canem-edit",
+      "title": "Bully (Canis Canem Edit)",
       "platform": "PS4/PS5",
-      "priceArs": 20368,
-      "videoId": "CJRNoZXzq3Q",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/9f8/9f8015d892a9ddb790f54e919b520557.jpg"
+      "priceArs": 14000,
+      "videoId": "WUlCivi8BXY"
     },
     {
-      "id": "bully",
-      "title": "Bully",
+      "id": "call-of-duty-black-ops-cold-war-bundle-espanol-latino",
+      "title": "Call of Duty: Black Ops Cold War Bundle ESPAÑOL LATINO",
       "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "videoId": "yqkynwFs9Hs",
-      "coverImageUrl": "https://media.rawg.io/media/games/5bc/5bcfcafffbd3085c62cc712b5b5f4b88.jpg"
+      "priceArs": 21500,
+      "videoId": "VGT50gI99eQ"
     },
     {
-      "id": "bus-simulator-21-next-stop",
-      "title": "Bus Simulator 21 Next Stop",
+      "id": "call-of-duty-black-ops-iii-zombies-chronicles-deluxe-espanol",
+      "title": "Call of Duty: Black Ops III - Zombies Chronicles Deluxe ESPAÑOL",
       "platform": "PS4/PS5",
-      "priceArs": 20064,
-      "videoId": "gMA_yFtWOVk",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/4be/4bea4f7caa7717bd19452d38d4e6ecbf.jpg"
+      "priceArs": 37500,
+      "videoId": "WJU_jHYbuII",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/48172-1.jpg"
     },
     {
-      "id": "call-of-duty-modern-warfare-espanol-latino",
-      "title": "Call of Duty: Modern Warfare ESPAÑOL LATINO",
+      "id": "call-of-duty-infinite-warfare-legacy-edition-espanol",
+      "title": "Call of Duty: Infinite Warfare - Legacy Edition ESPAÑOL",
       "platform": "PS4/PS5",
-      "priceArs": 23864,
-      "videoId": "NMZzsjhfkE8",
-      "coverImageUrl": "https://media.rawg.io/media/games/e43/e43f9f0a1429bd9332020ac5876bc693.jpg"
+      "priceArs": 35000,
+      "videoId": "y9dHGTQGvCI",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/99806-1.jpg"
     },
     {
-      "id": "carx-street",
-      "title": "CarX Street",
+      "id": "call-of-duty-modern-warfare-2-campaign-remastered",
+      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+      "platform": "PS4/PS5",
+      "priceArs": 6000,
+      "videoId": "bEBEOiDrY74",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/71205-1.jpg"
+    },
+    {
+      "id": "call-of-duty-vanguard-espanol-espana",
+      "title": "Call of Duty: Vanguard ESPAÑOL ESPAÑA",
       "platform": "PS5",
-      "priceArs": 23864,
-      "videoId": "htMT4LXaAyQ",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/7ea/7ea1b807aa23bd8a4f61f70acb692742.jpg"
+      "priceArs": 9500,
+      "videoId": "Nkcxa0ZORe8"
+    },
+    {
+      "id": "call-of-duty-vanguard-espanol-latino",
+      "title": "Call of Duty: Vanguard ESPAÑOL LATINO",
+      "platform": "PS4",
+      "priceArs": 26500,
+      "videoId": "22UJQm-3j8o",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/93295-1.jpg"
+    },
+    {
+      "id": "call-of-duty-vanguard-espanol-latino-1",
+      "title": "Call of Duty: Vanguard ESPAÑOL LATINO",
+      "platform": "PS5",
+      "priceArs": 26500,
+      "videoId": "22UJQm-3j8o",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/93295-1.jpg"
+    },
+    {
+      "id": "call-of-duty-wwii-edicion-digital-deluxe-espanol-latino",
+      "title": "Call of Duty: WWII - Edición Digital Deluxe ESPAÑOL LATINO",
+      "platform": "PS4/PS5",
+      "priceArs": 37500,
+      "videoId": "jIvVXcgJIuU"
     },
     {
       "id": "castle-crashers-remastered",
       "title": "Castle Crashers Remastered",
       "platform": "PS4/PS5",
-      "priceArs": 10080,
+      "priceArs": 7000,
       "videoId": "bu6Kwvd695w",
       "coverImageUrl": "https://media.rawg.io/media/games/d1a/d1a1202a378607b6c635c8f18ace95dd.jpg"
     },
@@ -266,143 +309,100 @@
       "id": "crysis-remastered-trilogy",
       "title": "Crysis Remastered Trilogy",
       "platform": "PS4/PS5",
-      "priceArs": 20672,
+      "priceArs": 15000,
       "videoId": "u6gsOQ8HZAU",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/c2f/c2f4aa10225d6571d019d5741e2037c1.jpg"
+    },
+    {
+      "id": "darkest-dungeon",
+      "title": "Darkest Dungeon",
+      "platform": "PS4/PS5",
+      "priceArs": 6500,
+      "videoId": "AQLxdHfMPF8",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/25807-1.jpg"
     },
     {
       "id": "darkest-dungeon-ii",
       "title": "Darkest Dungeon II",
       "platform": "PS4/PS5",
-      "priceArs": 20520,
+      "priceArs": 15000,
       "videoId": "Epkx5bIcc4o",
       "coverImageUrl": "https://media.rawg.io/media/games/aea/aeaab29c551ea9919e571c44e75a5106.jpg"
+    },
+    {
+      "id": "darkest-dungeon-ii-oblivion-edition",
+      "title": "Darkest Dungeon II: Oblivion Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 20500,
+      "videoId": "wezsD7pQJjs"
     },
     {
       "id": "darkest-dungeon-ancestral-edition",
       "title": "Darkest Dungeon: Ancestral Edition",
       "platform": "PS4/PS5",
-      "priceArs": 20064,
+      "priceArs": 15000,
       "videoId": "xdN0Etiib9g",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/e1d/e1d6e453daf5431e9c034650f0931ba9.jpg"
     },
     {
-      "id": "darksiders-ii-deathinitive-edition",
-      "title": "Darksiders II Deathinitive Edition",
+      "id": "darksiders-warmastered-edition",
+      "title": "Darksiders Warmastered Edition",
       "platform": "PS4/PS5",
-      "priceArs": 22040,
-      "videoId": "my1MsoNj34I",
-      "coverImageUrl": "https://media.rawg.io/media/games/cfe/cfe5960b5caca432f3575fc7d8ff736b.jpg"
+      "priceArs": 24000,
+      "videoId": "ohoM1NB6BTk",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/135788-1.jpg"
     },
     {
-      "id": "darksiders-iii",
-      "title": "Darksiders III",
+      "id": "dead-island-series-bundle",
+      "title": "Dead Island - Series Bundle",
       "platform": "PS4/PS5",
-      "priceArs": 14880,
-      "videoId": "BPBr2TF3bBk",
-      "coverImageUrl": "https://media.rawg.io/media/games/cb7/cb770f3f9871e1130f40812b05e401b2.jpg"
+      "priceArs": 20500,
+      "videoId": "Z0j9OYPnocA"
     },
     {
-      "id": "darksiders-fury-s-collection-war-and-death",
-      "title": "Darksiders: Fury's Collection War and Death",
+      "id": "dead-island-definitive-edition",
+      "title": "Dead Island Definitive Edition",
       "platform": "PS4/PS5",
-      "priceArs": 14880,
-      "videoId": "33ltYoAFoW8",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/367/367891c810f300fc5710d20ec7c32417.jpg"
-    },
-    {
-      "id": "dead-island-definitive-collection",
-      "title": "Dead Island Definitive Collection",
-      "platform": "PS4/PS5",
-      "priceArs": 10080,
-      "videoId": "aoqfZGYS7aQ",
-      "coverImageUrl": "https://media.rawg.io/media/games/dc9/dc9bfcddb7d0abc2d689193b3f43893a.jpg"
-    },
-    {
-      "id": "detroit-become-human-digital-deluxe-edition",
-      "title": "Detroit: Become Human Digital Deluxe Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 23864,
-      "videoId": "8a-EObAhYrg",
-      "coverImageUrl": "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg"
-    },
-    {
-      "id": "devil-may-cry-4-special-edition",
-      "title": "Devil May Cry 4 Special Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 10720,
-      "videoId": "2ys1TWOKK3k",
-      "coverImageUrl": "https://media.rawg.io/media/games/566/566f53f43aa1bd28c63cf3a4d21440ee.jpg"
-    },
-    {
-      "id": "devil-may-cry-5-vergil",
-      "title": "Devil May Cry 5 + Vergil",
-      "platform": "PS4/PS5",
-      "priceArs": 10080,
-      "videoId": "jl4haCCoSqg",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/347/3475eb3197226739e1c7c98de1cdd9d9.jpg"
-    },
-    {
-      "id": "devil-may-cry-hd-collection",
-      "title": "Devil May Cry HD Collection",
-      "platform": "PS4/PS5",
-      "priceArs": 10080,
-      "videoId": "osmXQMvg480",
-      "coverImageUrl": "https://media.rawg.io/media/games/13a/13a97b75b6e6b999901f6dd6fda47848.jpg"
-    },
-    {
-      "id": "devil-may-cry-hd-collection-4se-bundle",
-      "title": "Devil May Cry HD Collection & 4SE Bundle",
-      "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "videoId": "WBgw7s6VIaY",
-      "coverImageUrl": "https://media.rawg.io/media/games/13a/13a97b75b6e6b999901f6dd6fda47848.jpg"
+      "priceArs": 5500,
+      "videoId": "Z0j9OYPnocA",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/60147-1.jpg"
     },
     {
       "id": "diablo-iv",
       "title": "Diablo IV",
       "platform": "PS4/PS5",
-      "priceArs": 41800,
+      "priceArs": 31000,
       "videoId": "7RdDpqCmjb4",
       "coverImageUrl": "https://media.rawg.io/media/games/77d/77d51f8f4a07c3eecb0f8504027b1bf0.jpg"
+    },
+    {
+      "id": "diablo-iv-age-of-hatred-collection",
+      "title": "Diablo IV: Age of Hatred Collection",
+      "platform": "PS4/PS5",
+      "priceArs": 55000,
+      "videoId": "gjuC4H-3EGk"
     },
     {
       "id": "disney-epic-mickey-rebrushed",
       "title": "Disney Epic Mickey: Rebrushed",
       "platform": "PS4/PS5",
-      "priceArs": 41800,
+      "priceArs": 31000,
       "videoId": "j76rpUMA1Gg",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/956/9562d5a4a9f9edd50c78e812a74c4faf.jpg"
     },
     {
-      "id": "dmc-devil-may-cry-definitive-edition",
-      "title": "DmC Devil May Cry: Definitive Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "videoId": "VI_dStD05EI",
-      "coverImageUrl": "https://media.rawg.io/media/games/295/295eb868c241e6ad32ac033b8e6a2ede.jpg"
-    },
-    {
-      "id": "dmc4se-demon-hunter-bundle",
-      "title": "DMC4SE Demon Hunter Bundle",
-      "platform": "PS4/PS5",
-      "priceArs": 18544,
-      "videoId": "RH-849j9Tnw",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/13e/13ef62daf0f226b3f89e6f77fb0f5fdb.jpg"
-    },
-    {
       "id": "dragon-age-inquisition-game-of-the-year-edition",
-      "title": "Dragon Age: Inquisition Game of the Year Edition",
+      "title": "Dragon Age: Inquisition - Game of the Year Edition",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
+      "priceArs": 18500,
       "videoId": "hj8SVFRF2bw",
       "coverImageUrl": "https://media.rawg.io/media/games/260/26023c855f1769a93411d6a7ea084632.jpeg"
     },
     {
       "id": "dragon-ball-fighterz-legendary-edition",
-      "title": "DRAGON BALL FighterZ Legendary Edition",
+      "title": "DRAGON BALL FighterZ - Legendary Edition",
       "platform": "PS4/PS5",
-      "priceArs": 41040,
+      "priceArs": 30000,
       "videoId": "v3dKvhvDqfc",
       "coverImageUrl": "https://media.rawg.io/media/games/96b/96b9420bbd4bd1b79bf2a67f7779733a.jpg"
     },
@@ -410,7 +410,7 @@
       "id": "dragon-ball-xenoverse",
       "title": "Dragon Ball Xenoverse",
       "platform": "PS4/PS5",
-      "priceArs": 10720,
+      "priceArs": 7500,
       "videoId": "ysMGOyQ1V2g",
       "coverImageUrl": "https://media.rawg.io/media/games/729/729822a7ac978607241a310677c7775d.jpg"
     },
@@ -418,7 +418,7 @@
       "id": "dragon-ball-xenoverse-1-and-2-bundle",
       "title": "Dragon Ball Xenoverse 1 and 2 Bundle",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
+      "priceArs": 12500,
       "videoId": "DFWpzSFTJco",
       "coverImageUrl": "https://media.rawg.io/media/games/729/729822a7ac978607241a310677c7775d.jpg"
     },
@@ -426,7 +426,7 @@
       "id": "dragon-ball-z-kakarot-daima-edition",
       "title": "DRAGON BALL Z: KAKAROT DAIMA EDITION",
       "platform": "PS4/PS5",
-      "priceArs": 41800,
+      "priceArs": 26500,
       "videoId": "BPfh7-8Bdlc",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/e04/e049040dd96c65648bbac52422d050df.jpg"
     },
@@ -434,23 +434,55 @@
       "id": "dredge",
       "title": "DREDGE",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
+      "priceArs": 12500,
       "videoId": "ZtTfROTgYKA",
       "coverImageUrl": "https://media.rawg.io/media/games/c2c/c2c9f1c026b6c1be5bc2160baf7224ea.jpg"
+    },
+    {
+      "id": "dredge-digital-deluxe-edition",
+      "title": "DREDGE - Digital Deluxe Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 21500,
+      "videoId": "Qae88uZDvtg",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/40219-1.jpg"
     },
     {
       "id": "ea-family-bundle",
       "title": "EA Family Bundle",
       "platform": "PS4/PS5",
-      "priceArs": 14880,
+      "priceArs": 10500,
       "videoId": "nSj4NqgTjjM",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/b84/b847600fc083c4394f7ac608f3851dbe.jpg"
+    },
+    {
+      "id": "far-cry-5",
+      "title": "FAR CRY 5",
+      "platform": "PS4/PS5",
+      "priceArs": 11500,
+      "videoId": "RARURPrkBqc",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/52940-1.jpg"
+    },
+    {
+      "id": "far-cry-5-gold-edition",
+      "title": "Far Cry 5 Gold Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 16000,
+      "videoId": "mNRfWkbHi9s",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/52940-1.jpg"
+    },
+    {
+      "id": "far-cry-6-game-of-the-year-edition",
+      "title": "Far Cry 6 Game of the Year Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 17000,
+      "videoId": "VcIinHyFTzk",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/116099-1.jpg"
     },
     {
       "id": "far-cry-new-dawn",
       "title": "Far Cry New Dawn",
       "platform": "PS4/PS5",
-      "priceArs": 14880,
+      "priceArs": 10500,
       "videoId": "6eLHk2Eug78",
       "coverImageUrl": "https://media.rawg.io/media/games/6d2/6d27cf9c22f2b28cf3ae706464d138f9.jpg"
     },
@@ -458,7 +490,7 @@
       "id": "far-cry-new-dawn-deluxe-edition",
       "title": "Far Cry New Dawn Deluxe Edition",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
+      "priceArs": 12500,
       "videoId": "6eLHk2Eug78",
       "coverImageUrl": "https://media.rawg.io/media/games/6d2/6d27cf9c22f2b28cf3ae706464d138f9.jpg"
     },
@@ -466,79 +498,62 @@
       "id": "far-cry3-classic-edition",
       "title": "Far Cry3 Classic Edition",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
+      "priceArs": 10000,
       "videoId": "MLmdp8xEHTU",
       "coverImageUrl": "https://media.rawg.io/media/games/2ee/2eef5ed5e82c28d1299ecc2a0e60f2cb.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s",
+      "title": "Five Nights at Freddy's",
+      "platform": "PS4/PS5",
+      "priceArs": 6500,
+      "videoId": "BY9-jWQQHgw",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/120627-1.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-2",
+      "title": "Five Nights at Freddy's 2",
+      "platform": "PS4/PS5",
+      "priceArs": 6500,
+      "videoId": "lVPONdZBh6s",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/120627-1.jpg"
+    },
+    {
+      "id": "five-nights-at-freddy-s-help-wanted-1",
+      "title": "Five Nights at Freddy's: Help Wanted 1",
+      "platform": "PS4/PS5",
+      "priceArs": 13500,
+      "videoId": "lLv3wTRJwWM",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/80308-1.jpg"
     },
     {
       "id": "gears-of-war-reloaded",
       "title": "Gears of War: Reloaded",
       "platform": "PS5",
-      "priceArs": 28880,
+      "priceArs": 21500,
       "videoId": "vx8cUpL40Kc",
       "coverImageUrl": "https://media.rawg.io/media/games/213/213248f2ede0b914431446123b291cc0.jpg"
     },
     {
-      "id": "ghost-of-tsushima-version-del-director-espanol-latino",
-      "title": "Ghost of Tsushima VERSIÓN DEL DIRECTOR ESPAÑOL LATINO",
+      "id": "gorn-vr",
+      "title": "GORN VR",
       "platform": "PS4",
-      "priceArs": 28880,
-      "videoId": "MECGQUdLrew",
-      "coverImageUrl": "https://media.rawg.io/media/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg"
-    },
-    {
-      "id": "ghost-of-tsushima-version-del-director-espanol-latino-1",
-      "title": "Ghost of Tsushima VERSIÓN DEL DIRECTOR ESPAÑOL LATINO",
-      "platform": "PS5",
-      "priceArs": 41800,
-      "videoId": "MECGQUdLrew",
-      "coverImageUrl": "https://media.rawg.io/media/games/193/193c9fe23ca026914fdf41d551ff3df9.jpg"
-    },
-    {
-      "id": "god-of-war-2018-espanol-latino",
-      "title": "God Of War 2018 ESPAÑOL LATINO",
-      "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "videoId": "F3jePdO9_jc",
-      "coverImageUrl": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
-    },
-    {
-      "id": "god-of-war-ragnarok-digital-deluxe-edition-espanol-latino",
-      "title": "God of War Ragnarök Digital Deluxe Edition ESPAÑOL LATINO",
-      "platform": "PS4/PS5",
-      "priceArs": 54720,
-      "videoId": "vtFhDrMIZjE",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/3c4/3c4c51b66741363d83b56ce66b1240ec.jpg"
-    },
-    {
-      "id": "gran-turismo-7-25th-anniversary-digital-deluxe-edition",
-      "title": "Gran Turismo 7 25th Anniversary Digital Deluxe Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 54720,
-      "videoId": "1tBUsXIkG1A",
-      "coverImageUrl": "https://media.rawg.io/media/games/3f6/3f6a04b856f23310d3c2f5be8c5963f7.jpg"
+      "priceArs": 9500,
+      "videoId": "3YkrnWr1nRw"
     },
     {
       "id": "greedfall-standard-edition",
-      "title": "GreedFall Standard Edition",
+      "title": "GreedFall - Standard Edition",
       "platform": "PS4/PS5",
-      "priceArs": 13440,
+      "priceArs": 9500,
       "videoId": "mEzWPIKc4LI",
       "coverImageUrl": "https://media.rawg.io/media/games/c68/c6842e7b1e4a8c5fdff79504b7284e49.jpg"
-    },
-    {
-      "id": "green-hell",
-      "title": "Green Hell",
-      "platform": "PS4/PS5",
-      "priceArs": 12480,
-      "videoId": "fvXKRzTf_V4",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/afa/afafe78f1c6356cc423b1ec9a68f9c7d.jpg"
     },
     {
       "id": "grounded",
       "title": "Grounded",
       "platform": "PS4/PS5",
-      "priceArs": 28880,
+      "priceArs": 21500,
       "videoId": "ciVgq5xO5G0",
       "coverImageUrl": "https://media.rawg.io/media/games/0d7/0d7b7a687bf665b61337904193c56855.jpg"
     },
@@ -546,47 +561,15 @@
       "id": "hitman-world-of-assassination-part-one",
       "title": "HITMAN World of Assassination Part One",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
+      "priceArs": 8500,
       "videoId": "Z9Q4wAvWBAg",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/ba0/ba0613f821b65864ecfd0371c6445976.jpg"
-    },
-    {
-      "id": "horizon-forbidden-west-espanol-latino",
-      "title": "Horizon Forbidden West ESPAÑOL LATINO",
-      "platform": "PS4/PS5",
-      "priceArs": 28880,
-      "videoId": "p9a2SlsbV3w",
-      "coverImageUrl": "https://media.rawg.io/media/games/bf7/bf73b105ccbba42107986bbcd96fcada.jpg"
-    },
-    {
-      "id": "hot-wheels-unleashed",
-      "title": "HOT WHEELS UNLEASHED",
-      "platform": "PS4",
-      "priceArs": 12160,
-      "videoId": "FDuYs0AhHbE",
-      "coverImageUrl": "https://media.rawg.io/media/games/201/201feb4db3118c1440ebdce03e61e3fb.jpg"
-    },
-    {
-      "id": "hot-wheels-unleashed-1",
-      "title": "HOT WHEELS UNLEASHED",
-      "platform": "PS5",
-      "priceArs": 12160,
-      "videoId": "FDuYs0AhHbE",
-      "coverImageUrl": "https://media.rawg.io/media/games/201/201feb4db3118c1440ebdce03e61e3fb.jpg"
-    },
-    {
-      "id": "infamous-second-son",
-      "title": "inFAMOUS Second Son",
-      "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "videoId": "1VOCvqJysTk",
-      "coverImageUrl": "https://media.rawg.io/media/games/be2/be239d5eb4d0bf02bf722aff51e694ad.jpg"
     },
     {
       "id": "judgment",
       "title": "Judgment",
       "platform": "PS4",
-      "priceArs": 14240,
+      "priceArs": 10000,
       "videoId": "Oo96SMJxSVc",
       "coverImageUrl": "https://media.rawg.io/media/games/338/33848ebb15683ea022c08f39f01b810f.jpg"
     },
@@ -594,47 +577,23 @@
       "id": "judgment-1",
       "title": "Judgment",
       "platform": "PS5",
-      "priceArs": 16720,
+      "priceArs": 12500,
       "videoId": "Oo96SMJxSVc",
       "coverImageUrl": "https://media.rawg.io/media/games/338/33848ebb15683ea022c08f39f01b810f.jpg"
-    },
-    {
-      "id": "jujutsu-kaisen-cursed-clash-deluxe-edition",
-      "title": "Jujutsu Kaisen Cursed Clash Deluxe Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 28880,
-      "videoId": "SHrEY3Xk5Fc",
-      "coverImageUrl": "https://media.rawg.io/media/games/c40/c404b5afe4c30d0554fb142ba3a9582c.jpeg"
     },
     {
       "id": "just-cause-3-xxl-edition",
       "title": "Just Cause 3: XXL Edition",
       "platform": "PS4/PS5",
-      "priceArs": 6080,
+      "priceArs": 4500,
       "videoId": "fl-jrSXgQ0U",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/ba8/ba8fc30d38ad2d60f5e73d82ca3e9b5f.jpg"
-    },
-    {
-      "id": "just-dance-2026-edition",
-      "title": "Just Dance 2026 Edition",
-      "platform": "PS5",
-      "priceArs": 35720,
-      "videoId": "Uk7BTWyKyQg",
-      "coverImageUrl": "https://media.rawg.io/media/games/e4a/e4abca7866c6f9937ad5740079f02f0f.jpg"
-    },
-    {
-      "id": "just-dance-2026-edition-edicion-ultimate",
-      "title": "Just Dance 2026 Edition Edición Ultimate",
-      "platform": "PS5",
-      "priceArs": 61560,
-      "videoId": "zPWE9Wulhhw",
-      "coverImageUrl": "https://media.rawg.io/media/games/e4a/e4abca7866c6f9937ad5740079f02f0f.jpg"
     },
     {
       "id": "legacy-of-kain-soul-reaver-1-2-remastered",
       "title": "Legacy of Kain Soul Reaver 1&2 Remastered",
       "platform": "PS4/PS5",
-      "priceArs": 22040,
+      "priceArs": 16000,
       "videoId": "LpKy31RzDBA",
       "coverImageUrl": "https://media.rawg.io/media/games/837/8375a78025f2f969743c8f4aaa0e9774.jpg"
     },
@@ -642,7 +601,7 @@
       "id": "lego-batman-3-mas-alla-de-gotham",
       "title": "LEGO Batman 3: Más Allá de Gotham",
       "platform": "PS4/PS5",
-      "priceArs": 10720,
+      "priceArs": 7500,
       "videoId": "FWSXgJk-ruA",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/a8c/a8cd58ee985ab6d509370bddada91dbd.jpeg"
     },
@@ -650,7 +609,7 @@
       "id": "lego-city-undercover",
       "title": "LEGO CITY Undercover",
       "platform": "PS4/PS5",
-      "priceArs": 10880,
+      "priceArs": 7500,
       "videoId": "WpFR2sOFQcw",
       "coverImageUrl": "https://media.rawg.io/media/games/1fa/1fa173b8507cab48b755eebfabeb9930.jpg"
     },
@@ -658,15 +617,15 @@
       "id": "lego-marvel-super-heroes-2-deluxe-edition",
       "title": "LEGO Marvel Super Heroes 2 Deluxe Edition",
       "platform": "PS4/PS5",
-      "priceArs": 13440,
+      "priceArs": 9500,
       "videoId": "TZp3WsNXIUY",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/8e6/8e6f45ae541c5016e270e132d223ffe2.jpg"
     },
     {
       "id": "lego-marvel-s-avengers-deluxe-edition",
-      "title": "LEGO Marvel’s Avengers Deluxe Edition",
+      "title": "LEGO Marvel's Avengers Deluxe Edition",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
+      "priceArs": 8500,
       "videoId": "hyWbPHrsW_g",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/d4e/d4e0720282f967886af9cffd2ebb5e1d.jpg"
     },
@@ -674,7 +633,7 @@
       "id": "lego-star-wars-the-force-awakens-standard-edition",
       "title": "LEGO Star Wars: The Force Awakens Standard Edition",
       "platform": "PS4/PS5",
-      "priceArs": 10720,
+      "priceArs": 7500,
       "videoId": "JpI1_z_NtYo",
       "coverImageUrl": "https://media.rawg.io/media/screenshots/52c/52ce473a52dea733e831e1aeacce2d89.jpg"
     },
@@ -682,15 +641,15 @@
       "id": "lego-the-hobbit",
       "title": "LEGO The Hobbit",
       "platform": "PS4/PS5",
-      "priceArs": 10720,
+      "priceArs": 7500,
       "videoId": "83OMunaBvqU",
       "coverImageUrl": "https://media.rawg.io/media/games/e4f/e4fb3fd188f61fabec48dca22e6ef28a.jpg"
     },
     {
       "id": "life-is-strange-true-colors-ultimate-edition",
-      "title": "Life is Strange: True Colors Ultimate Edition",
+      "title": "Life is Strange: True Colors - Ultimate Edition",
       "platform": "PS4/PS5",
-      "priceArs": 47424,
+      "priceArs": 5500,
       "videoId": "D9cRmB9YYfM",
       "coverImageUrl": "https://media.rawg.io/media/games/278/2784fe67065c5095411f0d4c85205143.jpg"
     },
@@ -698,7 +657,7 @@
       "id": "like-a-dragon-gaiden-the-man-who-erased-his-name",
       "title": "Like a Dragon Gaiden: The Man Who Erased His Name",
       "platform": "PS4/PS5",
-      "priceArs": 23864,
+      "priceArs": 17500,
       "videoId": "6zmiw3Qxmg0",
       "coverImageUrl": "https://media.rawg.io/media/games/0c1/0c10aa5a41d64c0bb6ca9fe30173488d.jpg"
     },
@@ -706,31 +665,54 @@
       "id": "like-a-dragon-infinite-wealth-deluxe-edition",
       "title": "Like a Dragon: Infinite Wealth Deluxe Edition",
       "platform": "PS4/PS5",
-      "priceArs": 32832,
+      "priceArs": 24500,
       "videoId": "ZcYdoEju54c",
       "coverImageUrl": "https://media.rawg.io/media/games/f9d/f9d124268f23a61fa3aa71ecefb30cc4.jpg"
+    },
+    {
+      "id": "like-a-dragon-ishin-digital-deluxe-edition",
+      "title": "Like a Dragon: Ishin\\! Digital Deluxe Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 16500,
+      "videoId": "iWCjnYx7Ytc",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/104408-1.jpg"
     },
     {
       "id": "like-a-dragon-pirate-yakuza-in-hawaii",
       "title": "Like a Dragon: Pirate Yakuza in Hawaii",
       "platform": "PS4/PS5",
-      "priceArs": 23864,
+      "priceArs": 17500,
       "videoId": "mEFTIfZkZw4",
       "coverImageUrl": "https://media.rawg.io/media/games/23e/23e3803318123533db02a2fceb3d3e54.jpg"
     },
     {
-      "id": "limbo-inside-bundle",
-      "title": "LIMBO & INSIDE Bundle",
+      "id": "little-nightmares-complete-edition",
+      "title": "Little Nightmares Complete Edition",
       "platform": "PS4/PS5",
-      "priceArs": 8480,
-      "videoId": "WdkKAEjnCDw",
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/2bd/2bd21ee82f294ee900dffb21b9defd4e.jpg"
+      "priceArs": 10000,
+      "videoId": "B-LrbvtQU6I",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/114897-1.jpg"
+    },
+    {
+      "id": "little-nightmares-i-ii-bundle",
+      "title": "Little Nightmares I & II Bundle",
+      "platform": "PS4/PS5",
+      "priceArs": 17500,
+      "videoId": "BzEjM5o0Rz0"
+    },
+    {
+      "id": "little-nightmares-ii-deluxe-edition",
+      "title": "Little Nightmares II Deluxe Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 15000,
+      "videoId": "AI9zBBTyX-E",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/73893-1.jpg"
     },
     {
       "id": "lords-of-the-fallen",
       "title": "Lords of the Fallen",
       "platform": "PS5",
-      "priceArs": 16720,
+      "priceArs": 12500,
       "videoId": "uw_Lskv6ZjQ",
       "coverImageUrl": "https://media.rawg.io/media/games/12c/12c2fd04262732cb5e2e6ff378e1cc2d.jpg"
     },
@@ -738,7 +720,7 @@
       "id": "lost-judgment-digital-ultimate-edition",
       "title": "Lost Judgment Digital Ultimate Edition",
       "platform": "PS4/PS5",
-      "priceArs": 12480,
+      "priceArs": 8500,
       "videoId": "3wZZmmITJsk",
       "coverImageUrl": "https://media.rawg.io/media/games/186/1864ee956f171b4c3d5791b82c15df2f.jpg"
     },
@@ -746,7 +728,7 @@
       "id": "mad-max",
       "title": "Mad Max",
       "platform": "PS4/PS5",
-      "priceArs": 10720,
+      "priceArs": 7500,
       "videoId": "m0baqkfEboc",
       "coverImageUrl": "https://media.rawg.io/media/games/d7d/d7d33daa1892e2468cd0263d5dfc957e.jpg"
     },
@@ -754,7 +736,7 @@
       "id": "madison",
       "title": "MADiSON",
       "platform": "PS4",
-      "priceArs": 32376,
+      "priceArs": 24000,
       "videoId": "Il_TFl_vPoo",
       "coverImageUrl": "https://media.rawg.io/media/games/0d6/0d663de3fb5447f292dd0630d1a93802.jpg"
     },
@@ -762,7 +744,7 @@
       "id": "madison-1",
       "title": "MADiSON",
       "platform": "PS5",
-      "priceArs": 32376,
+      "priceArs": 24000,
       "videoId": "Il_TFl_vPoo",
       "coverImageUrl": "https://media.rawg.io/media/games/0d6/0d663de3fb5447f292dd0630d1a93802.jpg"
     },
@@ -770,665 +752,700 @@
       "id": "manhunt",
       "title": "Manhunt",
       "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "coverImageUrl": "https://media.rawg.io/media/games/c23/c23b578d6a9dd1c73ee403157184e793.jpg"
+      "priceArs": 11500,
+      "coverImageUrl": "https://media.rawg.io/media/games/c23/c23b578d6a9dd1c73ee403157184e793.jpg",
+      "videoId": "h-2IAW3UirU"
     },
     {
       "id": "max-payne",
       "title": "Max Payne",
       "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "coverImageUrl": "https://media.rawg.io/media/games/2f5/2f5eb72fe45540e93ac2726877551a20.jpg"
+      "priceArs": 11500,
+      "coverImageUrl": "https://media.rawg.io/media/games/2f5/2f5eb72fe45540e93ac2726877551a20.jpg",
+      "videoId": "3dke6dpvT9g"
     },
     {
       "id": "middle-earth-shadow-bundle",
-      "title": "Middle earth: Shadow Bundle",
+      "title": "Middle-earth: Shadow Bundle",
       "platform": "PS4/PS5",
-      "priceArs": 13440,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/456/456dab314175372a682c5d21692913b5.jpg"
+      "priceArs": 9500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/456/456dab314175372a682c5d21692913b5.jpg",
+      "videoId": "5QythXtJcdw"
     },
     {
-      "id": "monster-energy-supercross-the-official-videogame-6",
-      "title": "Monster Energy Supercross The Official Videogame 6",
-      "platform": "PS4/PS5",
-      "priceArs": 10720,
-      "coverImageUrl": "https://media.rawg.io/media/games/0b0/0b0611eb331285aafb05779d9f76d0b8.jpg"
-    },
-    {
-      "id": "motogp25",
-      "title": "MotoGP25",
+      "id": "monster-energy-supercross-the-official-videogame-4",
+      "title": "Monster Energy Supercross - The Official Videogame 4",
       "platform": "PS4",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/098/0980ef4a7af2c3cc368ae9bfad3fc112.jpg"
+      "priceArs": 5500,
+      "videoId": "lv7uKH-VU3w",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/81689-1.jpg"
     },
     {
-      "id": "motogp25-1",
-      "title": "MotoGP25",
+      "id": "monster-energy-supercross-the-official-videogame-4-1",
+      "title": "Monster Energy Supercross - The Official Videogame 4",
       "platform": "PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/098/0980ef4a7af2c3cc368ae9bfad3fc112.jpg"
+      "priceArs": 5500,
+      "videoId": "KhkAeDyL_ms",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/81689-1.jpg"
+    },
+    {
+      "id": "monster-energy-supercross-4-special-edition",
+      "title": "Monster Energy Supercross 4 - Special Edition",
+      "platform": "PS4",
+      "priceArs": 7500,
+      "videoId": "1Unv_pAp5i4",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/63352-1.jpg"
+    },
+    {
+      "id": "monster-energy-supercross-4-special-edition-1",
+      "title": "Monster Energy Supercross 4 - Special Edition",
+      "platform": "PS5",
+      "priceArs": 7500,
+      "videoId": "1Unv_pAp5i4",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/63352-1.jpg"
+    },
+    {
+      "id": "mortal-kombat-x-espanol-latino",
+      "title": "Mortal Kombat X ESPAÑOL LATINO",
+      "platform": "PS4/PS5",
+      "priceArs": 7500,
+      "videoId": "2wcE_qRUgyc",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/23433-1.png"
+    },
+    {
+      "id": "motogp21",
+      "title": "MotoGP21",
+      "platform": "PS4",
+      "priceArs": 6500,
+      "videoId": "yBPKoRPZBak",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/91047-1.jpg"
+    },
+    {
+      "id": "motogp21-1",
+      "title": "MotoGP21",
+      "platform": "PS5",
+      "priceArs": 6500,
+      "videoId": "yBPKoRPZBak",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/91047-1.jpg"
+    },
+    {
+      "id": "motogp23",
+      "title": "MotoGP23",
+      "platform": "PS4/PS5",
+      "priceArs": 7000,
+      "videoId": "VxUN04852G8",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/91047-1.jpg"
     },
     {
       "id": "mudrunner-american-wilds-edition",
-      "title": "MudRunner American Wilds Edition",
+      "title": "MudRunner - American Wilds Edition",
       "platform": "PS4/PS5",
-      "priceArs": 11200,
-      "coverImageUrl": "https://media.rawg.io/media/games/6da/6da443d6bbf8342fb72e2a63105a1a1f.jpg"
+      "priceArs": 8000,
+      "coverImageUrl": "https://media.rawg.io/media/games/6da/6da443d6bbf8342fb72e2a63105a1a1f.jpg",
+      "videoId": "Fl79UphJ-kw"
     },
     {
       "id": "mx-vs-atv-all-out",
       "title": "MX vs ATV All Out",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/c1f/c1f26c07034b1227ca0a720640e0554f.jpg"
+      "priceArs": 8500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/c1f/c1f26c07034b1227ca0a720640e0554f.jpg",
+      "videoId": "X1LaSmoHdNE"
     },
     {
       "id": "mx-vs-atv-legends",
       "title": "MX vs ATV Legends",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/d33/d33906beb199c1c9d1c29ec7daab8a91.jpg"
-    },
-    {
-      "id": "mxgp-2021-the-official-motocross-videogame",
-      "title": "MXGP 2021 The Official Motocross Videogame",
-      "platform": "PS4",
-      "priceArs": 9440,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/1c9/1c9d380cfc8a061a9799c4cdf626f93e.jpg"
-    },
-    {
-      "id": "mxgp-2021-the-official-motocross-videogame-1",
-      "title": "MXGP 2021 The Official Motocross Videogame",
-      "platform": "PS5",
-      "priceArs": 9440,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/1c9/1c9d380cfc8a061a9799c4cdf626f93e.jpg"
+      "priceArs": 12500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/d33/d33906beb199c1c9d1c29ec7daab8a91.jpg",
+      "videoId": "21L3bP3X78I"
     },
     {
       "id": "naruto-shippuden-ultimate-ninja-storm-legacy",
       "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Legacy",
       "platform": "PS4/PS5",
-      "priceArs": 41800,
-      "coverImageUrl": "https://media.rawg.io/media/games/c5a/c5a7912a602518cb921324785fa73703.jpg"
+      "priceArs": 31000,
+      "coverImageUrl": "https://media.rawg.io/media/games/c5a/c5a7912a602518cb921324785fa73703.jpg",
+      "videoId": "QdiB4waBJN4"
+    },
+    {
+      "id": "naruto-x-boruto-ultimate-ninja-storm-connections-deluxe-edition-espanol-latino",
+      "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS Deluxe Edition ESPAÑOL LATINO",
+      "platform": "PS4/PS5",
+      "priceArs": 28000,
+      "videoId": "7kBQtZ_SGoY"
     },
     {
       "id": "need-for-speed-ultimate-bundle",
       "title": "Need for Speed Ultimate Bundle",
       "platform": "PS4/PS5",
-      "priceArs": 27816,
-      "coverImageUrl": "https://media.rawg.io/media/games/19a/19a512a8c1293c22894b7364e1405ec1.jpg"
-    },
-    {
-      "id": "nioh-standard-edition",
-      "title": "Nioh Standard Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/games/f84/f84c7c45e074117fb81fecf427f8b41f.jpg"
+      "priceArs": 20500,
+      "coverImageUrl": "https://media.rawg.io/media/games/19a/19a512a8c1293c22894b7364e1405ec1.jpg",
+      "videoId": "uEcofNMEYp8"
     },
     {
       "id": "nobody-wants-to-die",
       "title": "Nobody Wants to Die",
       "platform": "PS5",
-      "priceArs": 10720,
-      "coverImageUrl": "https://media.rawg.io/media/games/4ef/4efba3c8f8cc57ee822b728fd60993ea.jpg"
+      "priceArs": 9000,
+      "coverImageUrl": "https://media.rawg.io/media/games/4ef/4efba3c8f8cc57ee822b728fd60993ea.jpg",
+      "videoId": "aQhPdgaJAkE"
     },
     {
       "id": "one-piece-odyssey-deluxe-edition",
       "title": "ONE PIECE ODYSSEY Deluxe Edition",
       "platform": "PS4/PS5",
-      "priceArs": 23864,
-      "coverImageUrl": "https://media.rawg.io/media/games/cf8/cf8f731368240a2048b9f153b835f529.jpg"
+      "priceArs": 17500,
+      "coverImageUrl": "https://media.rawg.io/media/games/cf8/cf8f731368240a2048b9f153b835f529.jpg",
+      "videoId": "BI2Ryx2q3HY"
     },
     {
       "id": "one-piece-world-seeker-deluxe-edition",
       "title": "ONE PIECE World Seeker Deluxe Edition",
       "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "coverImageUrl": "https://media.rawg.io/media/games/d5b/d5b20d49c2b0588ac9484d2c7756f846.jpg"
+      "priceArs": 11500,
+      "coverImageUrl": "https://media.rawg.io/media/games/d5b/d5b20d49c2b0588ac9484d2c7756f846.jpg",
+      "videoId": "Qr-RRw4J7uw"
     },
     {
       "id": "one-piece-pirate-warriors-3",
       "title": "One Piece: Pirate Warriors 3",
       "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/c4e/c4e663905c6ad9aa0b42fe0d26e7ce5a.jpg"
+      "priceArs": 11500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/c4e/c4e663905c6ad9aa0b42fe0d26e7ce5a.jpg",
+      "videoId": "cBfZr_tI0Ko"
+    },
+    {
+      "id": "onimusha-1-2-pack",
+      "title": "Onimusha 1+2 Pack",
+      "platform": "PS4/PS5",
+      "priceArs": 21500,
+      "videoId": "p-g_fU_b_Ko"
     },
     {
       "id": "outlast-1",
       "title": "Outlast 1",
       "platform": "PS4/PS5",
-      "priceArs": 9120,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/c5c/c5c5ac554749639eb0b1c67eafa419cd.jpg"
+      "priceArs": 6500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/c5c/c5c5ac554749639eb0b1c67eafa419cd.jpg",
+      "videoId": "uKA-IA4locM"
     },
     {
       "id": "outlast-2",
       "title": "Outlast 2",
       "platform": "PS4/PS5",
-      "priceArs": 10720,
-      "coverImageUrl": "https://media.rawg.io/media/games/880/880f6aa65fe9d786f1a455963df76180.jpg"
+      "priceArs": 7500,
+      "coverImageUrl": "https://media.rawg.io/media/games/880/880f6aa65fe9d786f1a455963df76180.jpg",
+      "videoId": "a58xhkF1O5w"
+    },
+    {
+      "id": "outlast-bundle-of-terror",
+      "title": "Outlast: Bundle of Terror",
+      "platform": "PS4/PS5",
+      "priceArs": 7500,
+      "videoId": "uKA-IA4locM",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/60429-1.jpg"
     },
     {
       "id": "outlast-trinity",
       "title": "Outlast: Trinity",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/5af/5afa9bb153fc2ded7b4a7eb8ca7865e4.jpg"
+      "priceArs": 12500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/5af/5afa9bb153fc2ded7b4a7eb8ca7865e4.jpg",
+      "videoId": "uKA-IA4locM"
     },
     {
       "id": "overcooked-2",
-      "title": "Overcooked! 2",
+      "title": "Overcooked\\! 2",
       "platform": "PS4/PS5",
-      "priceArs": 12480,
-      "coverImageUrl": "https://media.rawg.io/media/games/d11/d11470677a829e34562e95a4002c2c7f.jpg"
+      "priceArs": 8500,
+      "coverImageUrl": "https://media.rawg.io/media/games/d11/d11470677a829e34562e95a4002c2c7f.jpg",
+      "videoId": "0JG5Y7ZWvWU"
     },
     {
-      "id": "overcooked-2-gourmet-edition",
-      "title": "Overcooked! 2 Gourmet Edition",
+      "id": "pac-man-world-re-pac",
+      "title": "PAC-MAN WORLD Re-PAC",
       "platform": "PS4/PS5",
-      "priceArs": 19304,
-      "coverImageUrl": "https://media.rawg.io/media/games/270/270b412b66688081497b3d70c100b208.jpg"
-    },
-    {
-      "id": "pac-man-world-repac",
-      "title": "PAC MAN WORLD RePAC",
-      "platform": "PS4/PS5",
-      "priceArs": 12160,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/e9e/e9e8679edcc8ff7ddca7b2e5d98b8bd3.jpg"
-    },
-    {
-      "id": "paquete-ultimate-sonic",
-      "title": "Paquete Ultimate Sonic",
-      "platform": "PS4/PS5",
-      "priceArs": 27816,
-      "coverImageUrl": "https://media.rawg.io/media/games/954/95415143e264cdf3d506f55f52ef9b7c.jpg"
-    },
-    {
-      "id": "party-animals",
-      "title": "Party Animals",
-      "platform": "PS4/PS5",
-      "priceArs": 20064,
-      "coverImageUrl": "https://media.rawg.io/media/games/b66/b6601abafd9fa58ff7453808ca3581c2.jpg"
+      "priceArs": 8500,
+      "videoId": "ANzltwRSqhc",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/102159-1.jpg"
     },
     {
       "id": "persona5-strikers",
       "title": "Persona5 Strikers",
       "platform": "PS4/PS5",
-      "priceArs": 27816,
-      "coverImageUrl": "https://media.rawg.io/media/games/161/16107bc17254244531927450ad9716a7.jpg"
+      "priceArs": 8500,
+      "coverImageUrl": "https://media.rawg.io/media/games/161/16107bc17254244531927450ad9716a7.jpg",
+      "videoId": "8WbvgH9k3K0"
     },
     {
-      "id": "police-simulator-patrol-officers",
-      "title": "Police Simulator: Patrol Officers",
-      "platform": "PS4/PS5",
-      "priceArs": 23864,
-      "coverImageUrl": "https://media.rawg.io/media/games/b92/b92d5db85b7b787eafcfe4627dc991d5.jpg"
-    },
-    {
-      "id": "poppy-playtime-chapter-1",
-      "title": "Poppy Playtime: Chapter 1",
+      "id": "predator-hunting-grounds",
+      "title": "Predator: Hunting Grounds",
       "platform": "PS4",
-      "priceArs": 4800,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/a62/a622ce83ed9afb84028a7a55a59edd47.jpg"
+      "priceArs": 12500,
+      "videoId": "aAGuQUHRpE4",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/68387-1.jpg"
     },
     {
-      "id": "poppy-playtime-chapter-1-1",
-      "title": "Poppy Playtime: Chapter 1",
+      "id": "predator-hunting-grounds-1",
+      "title": "Predator: Hunting Grounds",
       "platform": "PS5",
-      "priceArs": 5280,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/a62/a622ce83ed9afb84028a7a55a59edd47.jpg"
+      "priceArs": 12500,
+      "videoId": "aAGuQUHRpE4",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/68387-1.jpg"
     },
     {
-      "id": "poppy-playtime-chapter-2",
-      "title": "Poppy Playtime: Chapter 2",
-      "platform": "PS4",
-      "priceArs": 12800,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/a62/a622ce83ed9afb84028a7a55a59edd47.jpg"
-    },
-    {
-      "id": "poppy-playtime-chapter-2-1",
-      "title": "Poppy Playtime: Chapter 2",
+      "id": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
       "platform": "PS5",
-      "priceArs": 12800,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/a62/a622ce83ed9afb84028a7a55a59edd47.jpg"
+      "priceArs": 45000,
+      "videoId": "dQiD6D81evQ",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/55492-1.jpg"
     },
     {
-      "id": "poppy-playtime-chapter-3",
-      "title": "Poppy Playtime: Chapter 3",
-      "platform": "PS4",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/be5/be5d7a85a9f9c4bc384aa652d1acb6b9.jpg"
-    },
-    {
-      "id": "poppy-playtime-chapter-3-1",
-      "title": "Poppy Playtime: Chapter 3",
-      "platform": "PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/be5/be5d7a85a9f9c4bc384aa652d1acb6b9.jpg"
-    },
-    {
-      "id": "poppy-playtime-chapter-4",
-      "title": "Poppy Playtime: Chapter 4",
-      "platform": "PS4",
-      "priceArs": 21280,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/a62/a622ce83ed9afb84028a7a55a59edd47.jpg"
-    },
-    {
-      "id": "poppy-playtime-chapter-4-1",
-      "title": "Poppy Playtime: Chapter 4",
-      "platform": "PS5",
-      "priceArs": 21280,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/a62/a622ce83ed9afb84028a7a55a59edd47.jpg"
-    },
-    {
-      "id": "psychonauts-2",
-      "title": "Psychonauts 2",
+      "id": "skater-xl",
+      "title": "Skater XL",
       "platform": "PS4/PS5",
-      "priceArs": 5280,
-      "coverImageUrl": "https://media.rawg.io/media/games/c3c/c3c536cc4d32623ba928020dfd39a648.jpg"
-    },
-    {
-      "id": "ratchet-clank-rift-apart-digital-deluxe-edition",
-      "title": "Ratchet & Clank: Rift Apart Digital Deluxe Edition",
-      "platform": "PS5",
-      "priceArs": 21736,
-      "coverImageUrl": "https://media.rawg.io/media/games/ccf/ccfd3fd488a8ed61145a3da96c080131.jpg"
-    },
-    {
-      "id": "ready-or-not",
-      "title": "Ready or Not",
-      "platform": "PS5",
-      "priceArs": 54568,
-      "coverImageUrl": "https://media.rawg.io/media/games/807/80722b59580f564352362b78cd53755b.jpg"
-    },
-    {
-      "id": "ready-or-not-digital-deluxe-edition",
-      "title": "Ready or Not: Digital Deluxe Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 74480,
-      "coverImageUrl": "https://media.rawg.io/media/games/807/80722b59580f564352362b78cd53755b.jpg"
-    },
-    {
-      "id": "ride-5",
-      "title": "RIDE 5",
-      "platform": "PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/c7b/c7b9ebf9627512837064a5781552f756.jpg"
-    },
-    {
-      "id": "ride-5-special-edition",
-      "title": "RIDE 5 Special Edition",
-      "platform": "PS4/PS5",
-      "priceArs": 25232,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/c7b/c7b9ebf9627512837064a5781552f756.jpg"
-    },
-    {
-      "id": "sackboy-a-big-adventure",
-      "title": "Sackboy: A Big Adventure",
-      "platform": "PS4/PS5",
-      "priceArs": 37848,
-      "coverImageUrl": "https://media.rawg.io/media/games/2ec/2ec8d2b5d990b9407e20dc81d271300d.jpg"
-    },
-    {
-      "id": "shadow-of-the-colossus",
-      "title": "SHADOW OF THE COLOSSUS",
-      "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/games/6ac/6ac602e70c837ababdf025e997391d9c.jpg"
+      "priceArs": 31000,
+      "videoId": "P-ULQ2nhJO4",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/75619-1.jpg"
     },
     {
       "id": "sleeping-dogs-definitive-edition",
       "title": "Sleeping Dogs Definitive Edition",
       "platform": "PS4/PS5",
-      "priceArs": 14240,
-      "coverImageUrl": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg"
+      "priceArs": 8500,
+      "coverImageUrl": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg",
+      "videoId": "EVgfSZRw0Ys"
     },
     {
       "id": "slime-rancher",
       "title": "Slime Rancher",
       "platform": "PS4/PS5",
-      "priceArs": 10720,
-      "coverImageUrl": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg"
+      "priceArs": 7500,
+      "coverImageUrl": "https://media.rawg.io/media/games/43f/43f4f3a50651f371c147ecce8ee841a9.jpg",
+      "videoId": "oOL-dsa79Xs"
     },
     {
       "id": "slime-rancher-2",
       "title": "Slime Rancher 2",
       "platform": "PS5",
-      "priceArs": 27816,
-      "coverImageUrl": "https://media.rawg.io/media/games/d37/d3764044c9ecac93d4bafeb616186604.jpg"
+      "priceArs": 20500,
+      "coverImageUrl": "https://media.rawg.io/media/games/d37/d3764044c9ecac93d4bafeb616186604.jpg",
+      "videoId": "wQXXXtOXvfE"
+    },
+    {
+      "id": "slime-rancher-deluxe-edition",
+      "title": "Slime Rancher: Deluxe Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 11500,
+      "videoId": "oOL-dsa79Xs",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/60905-1.jpg"
+    },
+    {
+      "id": "sniper-elite-3",
+      "title": "Sniper Elite 3",
+      "platform": "PS4/PS5",
+      "priceArs": 8500,
+      "videoId": "ywdI5XRSq6I",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/43113-1.jpg"
+    },
+    {
+      "id": "sniper-elite-3-ultimate-edition",
+      "title": "Sniper Elite 3 Ultimate Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 10000,
+      "videoId": "rZn8hpNxCIw",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/43113-1.jpg"
     },
     {
       "id": "sniper-elite-4",
       "title": "Sniper Elite 4",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
-      "coverImageUrl": "https://media.rawg.io/media/games/2fe/2feec1ba840f467a2280061b9e665c6e.jpg"
+      "priceArs": 8500,
+      "coverImageUrl": "https://media.rawg.io/media/games/2fe/2feec1ba840f467a2280061b9e665c6e.jpg",
+      "videoId": "lGBRAEvXZ94"
+    },
+    {
+      "id": "sniper-elite-4-digital-deluxe-edition",
+      "title": "Sniper Elite 4 Digital Deluxe Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 11500,
+      "videoId": "lGBRAEvXZ94",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/43113-1.jpg"
     },
     {
       "id": "sonic-colours-ultimate-digital-deluxe",
-      "title": "Sonic Colours: Ultimate Digital Deluxe",
+      "title": "Sonic Colours: Ultimate - Digital Deluxe",
       "platform": "PS4/PS5",
-      "priceArs": 11040,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/e03/e03546b5b5b7b7de9fc16714c84f8f41.jpg"
+      "priceArs": 7500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/e03/e03546b5b5b7b7de9fc16714c84f8f41.jpg",
+      "videoId": "v-RiFqqnn44"
     },
     {
       "id": "sonic-origins",
       "title": "Sonic Origins",
       "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "coverImageUrl": "https://media.rawg.io/media/games/8d0/8d0d4ee64321119d37ef8d140184a639.jpg"
+      "priceArs": 11500,
+      "coverImageUrl": "https://media.rawg.io/media/games/8d0/8d0d4ee64321119d37ef8d140184a639.jpg",
+      "videoId": "8CU3cNzl4hY"
     },
     {
       "id": "sonic-superstars",
       "title": "SONIC SUPERSTARS",
       "platform": "PS4/PS5",
-      "priceArs": 27816,
-      "coverImageUrl": "https://media.rawg.io/media/games/d83/d83e841857f4eb686f35b193aa56440f.jpg"
+      "priceArs": 20500,
+      "coverImageUrl": "https://media.rawg.io/media/games/d83/d83e841857f4eb686f35b193aa56440f.jpg",
+      "videoId": "j3g-62NNoUs"
     },
     {
-      "id": "south-park-snow-day",
-      "title": "SOUTH PARK: SNOW DAY!",
-      "platform": "PS5",
-      "priceArs": 20064,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/f90/f9017218e38ee5321dce6d6f8ad98c4a.jpg"
-    },
-    {
-      "id": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-      "title": "SpongeBob SquarePants: Battle for Bikini Bottom Rehydrated",
+      "id": "stranded-deep",
+      "title": "Stranded Deep",
       "platform": "PS4/PS5",
-      "priceArs": 22040,
-      "coverImageUrl": "https://media.rawg.io/media/games/793/79307648580a262f6cac402c3007efe0.jpg"
-    },
-    {
-      "id": "stardew-valley",
-      "title": "Stardew Valley",
-      "platform": "PS4/PS5",
-      "priceArs": 14240,
-      "coverImageUrl": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+      "priceArs": 12500,
+      "videoId": "E9_iyrd8EsA",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/72581-1.jpg"
     },
     {
       "id": "tabs",
       "title": "TABS",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/32c/32c5cfd8bccd18e3af7d552e82ce888c.jpg"
+      "priceArs": 12500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/32c/32c5cfd8bccd18e3af7d552e82ce888c.jpg",
+      "videoId": "mFS4cRbn5fM"
+    },
+    {
+      "id": "teenage-mutant-ninja-turtles-shredder-s-revenge-ultimate-edition",
+      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Ultimate Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 21500,
+      "videoId": "BrRYp9lPn_E",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/119964-1.jpg"
     },
     {
       "id": "tekken-7-originals-edition",
-      "title": "TEKKEN 7 Originals Edition",
+      "title": "TEKKEN 7 - Originals Edition",
       "platform": "PS4/PS5",
-      "priceArs": 23864,
-      "coverImageUrl": "https://media.rawg.io/media/games/62b/62b035add7205737540d66e082b85930.jpg"
+      "priceArs": 17500,
+      "coverImageUrl": "https://media.rawg.io/media/games/62b/62b035add7205737540d66e082b85930.jpg",
+      "videoId": "BmW7oPPa_H0"
     },
     {
       "id": "tekken-8",
       "title": "TEKKEN 8",
       "platform": "PS5",
-      "priceArs": 35720,
-      "coverImageUrl": "https://media.rawg.io/media/games/ed3/ed3a5e9fab79022979de9ef420137f73.jpg"
+      "priceArs": 26500,
+      "coverImageUrl": "https://media.rawg.io/media/games/ed3/ed3a5e9fab79022979de9ef420137f73.jpg",
+      "videoId": "2hPuRQz6IlM"
     },
     {
       "id": "tekken-8-season-2-ultimate-edition",
       "title": "TEKKEN 8 Season 2 Ultimate Edition",
       "platform": "PS5",
-      "priceArs": 87400,
-      "coverImageUrl": "https://media.rawg.io/media/games/c9f/c9fbbde8236fbefa330658166eba8419.jpg"
-    },
-    {
-      "id": "tennis-world-tour",
-      "title": "Tennis World Tour",
-      "platform": "PS4/PS5",
-      "priceArs": 10720,
-      "coverImageUrl": "https://media.rawg.io/media/games/cb0/cb03385179a52bf6dbed776a7c53de1c.jpg"
+      "priceArs": 64500,
+      "coverImageUrl": "https://media.rawg.io/media/games/c9f/c9fbbde8236fbefa330658166eba8419.jpg",
+      "videoId": "YAUcKyhbhqY"
     },
     {
       "id": "tennis-world-tour-roland-garros-edition",
-      "title": "Tennis World Tour Roland Garros Edition",
+      "title": "Tennis World Tour - Roland-Garros Edition",
       "platform": "PS4/PS5",
-      "priceArs": 14240,
-      "coverImageUrl": "https://media.rawg.io/media/games/c60/c60a82d8896ad66cff147722a14048ef.jpg"
+      "priceArs": 5500,
+      "coverImageUrl": "https://media.rawg.io/media/games/c60/c60a82d8896ad66cff147722a14048ef.jpg",
+      "videoId": "hQFmhPOlNFo"
+    },
+    {
+      "id": "the-alters-deluxe-edition",
+      "title": "The Alters: Deluxe Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 36000,
+      "videoId": "bXC2PrXIB6Q",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/134209-1.jpg"
     },
     {
       "id": "the-chant",
       "title": "The Chant",
       "platform": "PS5",
-      "priceArs": 10720,
-      "coverImageUrl": "https://media.rawg.io/media/games/b8d/b8d6d060c1534aaf554a0393ce5c4742.jpg"
+      "priceArs": 7500,
+      "coverImageUrl": "https://media.rawg.io/media/games/b8d/b8d6d060c1534aaf554a0393ce5c4742.jpg",
+      "videoId": "i2x45LEoU0E"
+    },
+    {
+      "id": "the-crew-motorfest",
+      "title": "The Crew Motorfest",
+      "platform": "PS4",
+      "priceArs": 15000,
+      "videoId": "RsVV6aznDC0",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/119270-1.jpg"
+    },
+    {
+      "id": "the-crew-motorfest-1",
+      "title": "The Crew Motorfest",
+      "platform": "PS5",
+      "priceArs": 16500,
+      "videoId": "RsVV6aznDC0",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/119270-1.jpg"
+    },
+    {
+      "id": "the-crew-motorfest-ultimate-edition-ano-3",
+      "title": "The Crew Motorfest - Ultimate Edition Año 3",
+      "platform": "PS4/PS5",
+      "priceArs": 50000,
+      "videoId": "RsVV6aznDC0",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/119270-1.jpg"
     },
     {
       "id": "the-escapists-the-escapists-2",
       "title": "The Escapists + The Escapists 2",
       "platform": "PS4/PS5",
-      "priceArs": 13440,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/e1d/e1de65faca4d95b01c5079161eed4e58.jpg"
+      "priceArs": 9500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/e1d/e1de65faca4d95b01c5079161eed4e58.jpg",
+      "videoId": "-EeZZO8haZE"
     },
     {
       "id": "the-evil-within-2-espanol-latino",
       "title": "The Evil Within 2 ESPAÑOL LATINO",
       "platform": "PS4/PS5",
-      "priceArs": 14880,
-      "coverImageUrl": "https://media.rawg.io/media/games/d5f/d5fd2f970f48d0877a53aec98825faba.jpg"
+      "priceArs": 10500,
+      "coverImageUrl": "https://media.rawg.io/media/games/d5f/d5fd2f970f48d0877a53aec98825faba.jpg",
+      "videoId": "f7JbFBq4NAo"
+    },
+    {
+      "id": "the-forest",
+      "title": "THE FOREST",
+      "platform": "PS4/PS5",
+      "priceArs": 8500,
+      "videoId": "7mwn5U2PNvk",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/61871-1.jpg"
     },
     {
       "id": "the-last-faith",
       "title": "The Last Faith",
       "platform": "PS4/PS5",
-      "priceArs": 24472,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/5c5/5c54a7b428f422f682a0e58543743a2e.jpg"
-    },
-    {
-      "id": "the-last-guardian",
-      "title": "The Last Guardian",
-      "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/games/276/2769b1982cd132a60c69dc5d574445fa.jpg"
-    },
-    {
-      "id": "the-last-of-us-part-ii-espanol-latino",
-      "title": "The Last of Us Part II ESPAÑOL LATINO",
-      "platform": "PS4/PS5",
-      "priceArs": 41800,
-      "coverImageUrl": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg"
-    },
-    {
-      "id": "the-last-of-us-remastered-espanol-latino",
-      "title": "The Last Of Us Remastered ESPAÑOL LATINO",
-      "platform": "PS4",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/games/a5a/a5a7fb8d9cb8063a8b42ee002b410db6.jpg"
-    },
-    {
-      "id": "the-order-1886",
-      "title": "The Order: 1886",
-      "platform": "PS4/PS5",
-      "priceArs": 17480,
-      "coverImageUrl": "https://media.rawg.io/media/games/c5b/c5b3b6aa220050f7f504f4477cb51d3b.jpg"
+      "priceArs": 18000,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/5c5/5c54a7b428f422f682a0e58543743a2e.jpg",
+      "videoId": "pAks_dmJWRE"
     },
     {
       "id": "the-precinct",
       "title": "The Precinct",
       "platform": "PS4/PS5",
-      "priceArs": 31312,
-      "coverImageUrl": "https://media.rawg.io/media/games/5c4/5c45b0255e1bc2b89c44b114278a6891.jpg"
+      "priceArs": 20500,
+      "coverImageUrl": "https://media.rawg.io/media/games/5c4/5c45b0255e1bc2b89c44b114278a6891.jpg",
+      "videoId": "4CHGcpU7Udo"
     },
     {
       "id": "the-quarry-deluxe-edition",
-      "title": "The Quarry Deluxe Edition",
+      "title": "The Quarry - Deluxe Edition",
       "platform": "PS4/PS5",
-      "priceArs": 17670,
-      "coverImageUrl": "https://media.rawg.io/media/games/f40/f407a80be4c604d013e4b9d1e0c6dbef.jpg"
-    },
-    {
-      "id": "the-texas-chain-saw-massacre",
-      "title": "The Texas Chain Saw Massacre",
-      "platform": "PS4/PS5",
-      "priceArs": 9120,
-      "coverImageUrl": "https://media.rawg.io/media/games/5c8/5c8e3ef2677647ca5bd0ad474c2c4e16.jpg"
+      "priceArs": 10500,
+      "coverImageUrl": "https://media.rawg.io/media/games/f40/f407a80be4c604d013e4b9d1e0c6dbef.jpg",
+      "videoId": "PNDn8OhUMuI"
     },
     {
       "id": "the-warriors",
       "title": "The Warriors",
       "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "coverImageUrl": "https://media.rawg.io/media/games/4db/4dbd2ee4f8be8ef3bb25583d6d02a7a3.jpg"
+      "priceArs": 11500,
+      "coverImageUrl": "https://media.rawg.io/media/games/4db/4dbd2ee4f8be8ef3bb25583d6d02a7a3.jpg",
+      "videoId": "66PmZXist-k"
     },
     {
-      "id": "tom-clancy-s-rainbow-six-siege",
-      "title": "Tom Clancy's Rainbow Six Siege",
+      "id": "tom-clancy-s-the-division-2",
+      "title": "Tom Clancy's The Division 2",
       "platform": "PS4/PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg"
+      "priceArs": 10000,
+      "videoId": "e7P5m9DPtZo",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/18904-1.jpg"
     },
     {
-      "id": "tom-clancy-s-the-division",
-      "title": "Tom Clancy’s The Division",
+      "id": "tomb-raider-i-vi-remastered",
+      "title": "Tomb Raider I-VI Remastered",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
-      "coverImageUrl": "https://media.rawg.io/media/games/c73/c73c4ffebfe968ba0982a56c2b5020ef.jpg"
+      "priceArs": 19000,
+      "videoId": "pB_ATpJtTp4"
     },
     {
-      "id": "tony-hawk-s-pro-skater-3-4",
-      "title": "Tony Hawk's Pro Skater 3 + 4",
+      "id": "tony-hawk-s-pro-skater-1-4",
+      "title": "Tony Hawk's Pro Skater 1 - 4",
       "platform": "PS4/PS5",
-      "priceArs": 41800,
-      "coverImageUrl": "https://media.rawg.io/media/games/fb5/fb5453ec554d23caa221a6c8c4fd9279.jpg"
+      "priceArs": 45500,
+      "videoId": "Od6GRg0GhRc",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/76868-1.jpg"
     },
     {
-      "id": "tony-hawks-pro-skater-1-2",
-      "title": "Tony Hawks Pro Skater 1 + 2",
-      "platform": "PS4",
-      "priceArs": 9920,
-      "coverImageUrl": "https://media.rawg.io/media/games/088/0885c48293746aad6df30735f30d0836.jpg"
+      "id": "tony-hawk-s-pro-skater-1-2",
+      "title": "Tony Hawk's Pro Skater 1 + 2",
+      "platform": "PS4/PS5",
+      "priceArs": 7000,
+      "videoId": "4paYDD0WIVY",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/84225-1.jpg"
     },
     {
-      "id": "until-dawn",
-      "title": "Until Dawn",
-      "platform": "PS4",
-      "priceArs": 17480,
-      "coverImageUrl": "https://media.rawg.io/media/games/d4a/d4adb09d67998e339551acb0e15c1e99.jpg"
+      "id": "tony-hawk-s-pro-skater-3-4-cross-gen-edition",
+      "title": "Tony Hawk's Pro Skater 3 + 4 - Cross-Gen Edition",
+      "platform": "PS4/PS5",
+      "priceArs": 31000,
+      "videoId": "XfsPe73HBYo"
+    },
+    {
+      "id": "truck-driver",
+      "title": "Truck Driver",
+      "platform": "PS4/PS5",
+      "priceArs": 17500,
+      "videoId": "42bpQbJ44vs",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/71625-1.jpg"
+    },
+    {
+      "id": "ufc-6-ultimate-edition",
+      "title": "UFC 6 Ultimate Edition",
+      "platform": "PS5",
+      "priceArs": 88000,
+      "videoId": "u7csPlUYlF4",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/35883-1.jpg"
     },
     {
       "id": "vampyr",
       "title": "Vampyr",
       "platform": "PS4/PS5",
-      "priceArs": 14880,
-      "coverImageUrl": "https://media.rawg.io/media/games/23b/23b42b7a896140f4ce1d0df8c42fa012.jpg"
+      "priceArs": 10500,
+      "coverImageUrl": "https://media.rawg.io/media/games/23b/23b42b7a896140f4ce1d0df8c42fa012.jpg",
+      "videoId": "ntksQKuM7kk"
     },
     {
-      "id": "warhammer-40-000-darktide",
-      "title": "Warhammer 40,000: Darktide",
-      "platform": "PS5",
-      "priceArs": 16720,
-      "coverImageUrl": "https://media.rawg.io/media/games/63e/63ee51f2fc8c78ff3a4fa8f60d5898b4.jpg"
-    },
-    {
-      "id": "warhammer-40-000-darktide-imperial-edition",
-      "title": "Warhammer 40,000: Darktide Imperial Edition",
-      "platform": "PS5",
-      "priceArs": 23864,
-      "coverImageUrl": "https://media.rawg.io/media/games/63e/63ee51f2fc8c78ff3a4fa8f60d5898b4.jpg"
-    },
-    {
-      "id": "watch-dogs-legion-deluxe-edition-subtitulado",
-      "title": "Watch Dogs: Legion Deluxe Edition SUBTITULADO",
+      "id": "visage",
+      "title": "Visage",
       "platform": "PS4/PS5",
-      "priceArs": 18088,
-      "coverImageUrl": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg"
+      "priceArs": 24000,
+      "videoId": "tCtqW9i8QdE",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/79182-1.jpg"
     },
     {
       "id": "watch-dogs-legion-gold-edition-espanol",
-      "title": "Watch Dogs: Legion Gold Edition ESPAÑOL",
+      "title": "Watch Dogs: Legion - Gold Edition ESPAÑOL",
       "platform": "PS4/PS5",
-      "priceArs": 28880,
-      "coverImageUrl": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg"
+      "priceArs": 21500,
+      "coverImageUrl": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg",
+      "videoId": "F11svbrAaA0"
+    },
+    {
+      "id": "watch-dogs-legion-ultimate-edition-subtitulado",
+      "title": "Watch Dogs: Legion - Ultimate Edition SUBTITULADO",
+      "platform": "PS4/PS5",
+      "priceArs": 26500,
+      "coverImageUrl": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg",
+      "videoId": "ySeNQBQeJ9I"
     },
     {
       "id": "watch-dogs-legion-subtitulado",
       "title": "Watch Dogs: Legion SUBTITULADO",
       "platform": "PS4/PS5",
-      "priceArs": 15352,
-      "coverImageUrl": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg"
-    },
-    {
-      "id": "watch-dogs-legion-ultimate-edition-subtitulado",
-      "title": "Watch Dogs: Legion Ultimate Edition SUBTITULADO",
-      "platform": "PS4/PS5",
-      "priceArs": 35720,
-      "coverImageUrl": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg"
+      "priceArs": 11500,
+      "coverImageUrl": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg",
+      "videoId": "l2fDw6kffCE"
     },
     {
       "id": "way-of-the-hunter",
       "title": "Way of the Hunter",
       "platform": "PS5",
-      "priceArs": 15352,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/ccd/ccd81afb299b0cbd0feb70bfaa4b678e.jpg"
-    },
-    {
-      "id": "wobbly-life",
-      "title": "Wobbly Life",
-      "platform": "PS4/PS5",
-      "priceArs": 27208,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/825/8254ec6963847cf351a4b96499e94f92.jpg"
+      "priceArs": 11500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/ccd/ccd81afb299b0cbd0feb70bfaa4b678e.jpg",
+      "videoId": "Lq_qPHxFRw8"
     },
     {
       "id": "wolfenstein-ii-the-new-colossus",
       "title": "Wolfenstein II: The New Colossus",
       "platform": "PS4/PS5",
-      "priceArs": 12160,
-      "coverImageUrl": "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg"
+      "priceArs": 8500,
+      "coverImageUrl": "https://media.rawg.io/media/games/a0e/a0ef08621301a1eab5e04fa5c96978fa.jpeg",
+      "videoId": "4ezuTDZO1qM"
+    },
+    {
+      "id": "world-war-z-aftermath",
+      "title": "World War Z: Aftermath",
+      "platform": "PS4",
+      "priceArs": 16000,
+      "videoId": "kH2Mrz25Opk",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/107275-1.jpg"
+    },
+    {
+      "id": "world-war-z-aftermath-deluxe-edition",
+      "title": "World War Z: Aftermath Deluxe Edition",
+      "platform": "PS4",
+      "priceArs": 17500,
+      "videoId": "d3ciw_v7MF0",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/107275-1.jpg"
+    },
+    {
+      "id": "world-war-z-aftermath-deluxe-edition-1",
+      "title": "World War Z: Aftermath Deluxe Edition",
+      "platform": "PS5",
+      "priceArs": 17500,
+      "videoId": "E-HivJSJ_aU",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/107275-1.jpg"
     },
     {
       "id": "wrc-10-fia-world-rally-championship",
       "title": "WRC 10 FIA World Rally Championship",
       "platform": "PS4",
-      "priceArs": 14880,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/bbf/bbf801dd1c7534eae9bf9ba4bce25200.jpg"
+      "priceArs": 10500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/bbf/bbf801dd1c7534eae9bf9ba4bce25200.jpg",
+      "videoId": "RWzzZwNSLzM"
     },
     {
       "id": "wrc-10-fia-world-rally-championship-1",
       "title": "WRC 10 FIA World Rally Championship",
       "platform": "PS5",
-      "priceArs": 14880,
-      "coverImageUrl": "https://media.rawg.io/media/screenshots/bbf/bbf801dd1c7534eae9bf9ba4bce25200.jpg"
+      "priceArs": 10500,
+      "coverImageUrl": "https://media.rawg.io/media/screenshots/bbf/bbf801dd1c7534eae9bf9ba4bce25200.jpg",
+      "videoId": "RWzzZwNSLzM"
     },
     {
       "id": "wrc-collection",
       "title": "WRC Collection",
       "platform": "PS4/PS5",
-      "priceArs": 18696
-    },
-    {
-      "id": "wreckfest",
-      "title": "Wreckfest",
-      "platform": "PS4/PS5",
-      "priceArs": 20064,
-      "coverImageUrl": "https://media.rawg.io/media/games/ff2/ff2315fb895502efcbd40f1e5f37c170.jpg"
+      "priceArs": 14000,
+      "videoId": "vzGWwj6T1P4"
     },
     {
       "id": "xcom-2",
       "title": "XCOM 2",
       "platform": "PS4/PS5",
-      "priceArs": 8000,
-      "coverImageUrl": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg"
+      "priceArs": 5500,
+      "coverImageUrl": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg",
+      "videoId": "1aoK2NMteAg"
     },
     {
       "id": "xcom-2-digital-deluxe-edition",
       "title": "XCOM 2 Digital Deluxe Edition",
       "platform": "PS4/PS5",
-      "priceArs": 14240,
-      "coverImageUrl": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg"
+      "priceArs": 10000,
+      "coverImageUrl": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg",
+      "videoId": "ZlF4_o3qALo"
     },
     {
-      "id": "yakuza-kiwami-yakuza-kiwami-2-bundle",
-      "title": "Yakuza Kiwami & Yakuza Kiwami 2 Bundle",
+      "id": "yakuza-kiwami",
+      "title": "Yakuza Kiwami",
       "platform": "PS4/PS5",
-      "priceArs": 27816,
-      "coverImageUrl": "https://media.rawg.io/media/games/fbb/fbbd9fe21317bde9134114e2b1306069.jpg"
+      "priceArs": 15000,
+      "videoId": "UAz9NB5wZvg",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/75678-1.jpg"
+    },
+    {
+      "id": "yakuza-kiwami-2",
+      "title": "Yakuza Kiwami 2",
+      "platform": "PS4/PS5",
+      "priceArs": 15000,
+      "videoId": "vng-2rETJK0",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/60768-1.jpg"
     },
     {
       "id": "zombie-army-trilogy",
       "title": "Zombie Army Trilogy",
       "platform": "PS4/PS5",
-      "priceArs": 10720,
-      "coverImageUrl": "https://media.rawg.io/media/games/2ea/2ea9a19c60a97c3b164020aa1328f429.jpg"
+      "priceArs": 7500,
+      "videoId": "4PoskRV83MI",
+      "coverImageUrl": "https://cdn.thegamesdb.net/images/large/boxart/front/32843-1.jpg"
     }
   ]
 }

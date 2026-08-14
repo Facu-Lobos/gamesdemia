@@ -1,7 +1,7 @@
 import { normalize } from "../lib/search"
 import type { Game } from "./types"
 
-// Franquicias más reconocibles que efectivamente están en el catálogo actual (lista_juegos.pdf).
+// Franquicias más reconocibles que efectivamente están en el catálogo actual (lista_proveedor.txt).
 // Se matchea por substring normalizado; si ninguna coincide, esa entrada simplemente no aparece.
 const FEATURED_KEYWORDS = [
   "god of war",

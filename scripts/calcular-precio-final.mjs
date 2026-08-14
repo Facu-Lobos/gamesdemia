@@ -1,13 +1,17 @@
 import { readFile, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { PDFParse } from 'pdf-parse'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const PDF_PATH = path.join(__dirname, '..', 'data-source', 'lista_juegos.pdf')
+const SOURCE_PATH = path.join(__dirname, '..', 'data-source', 'lista_proveedor.txt')
 const OUTPUT_PATH = path.join(__dirname, '..', 'src', 'data', 'games.json')
 
-const NOISE_LINES = new Set(['LISTA DE JUEGOS GAMESDEMIA', 'Juego Precio', 'Juego', 'Precio'])
+const MARGEN = 1.4 // 40% de ganancia sobre el precio de proveedor
+const REDONDEO = 500 // el precio final siempre cae en un múltiplo de $500
+
+function calcularPrecioFinal(precioProveedor) {
+  return Math.round((precioProveedor * MARGEN) / REDONDEO) * REDONDEO
+}
 
 function slugify(title) {
   return title
@@ -20,7 +24,7 @@ function slugify(title) {
 
 function cleanTitle(rawTitle) {
   return rawTitle
-    .replace(/[™®]n?/g, '')
+    .replace(/[™®]️?/g, '')
     .replace(/■/g, '')
     .replace(/\s+/g, ' ')
     .trim()
@@ -46,39 +50,36 @@ function stripPlatformTokens(title) {
 }
 
 async function main() {
-  const buffer = await readFile(PDF_PATH)
-  const parser = new PDFParse({ data: buffer })
-  const { text } = await parser.getText()
-  await parser.destroy()
+  const raw = await readFile(SOURCE_PATH, 'utf-8')
+  const existing = JSON.parse(await readFile(OUTPUT_PATH, 'utf-8'))
+  const existingById = new Map(existing.games.map((g) => [g.id, g]))
 
-  const expiryMatch = text.match(/v[aá]lidas?\s+hasta:?\s*(\d{1,2}\/\d{1,2}\/\d{4})/i)
-  const offerExpiration = expiryMatch ? expiryMatch[1] : null
+  const expiryMatch = raw.match(/v[aá]lidas?\s+hasta:?\s*(\d{1,2}\/\d{1,2}\/\d{4})/i)
+  const offerExpiration = expiryMatch ? expiryMatch[1] : existing.meta.offerExpiration
 
-  const lines = text
+  const lines = raw
     .split('\n')
     .map((l) => l.trim())
     .filter((l) => l.length > 0)
-    .filter((l) => !NOISE_LINES.has(l))
     .filter((l) => !/^Ofertas\s+v[aá]lidas/i.test(l))
-    .filter((l) => !/^--\s*\d+\s+of\s+\d+\s*--$/i.test(l))
 
   const games = []
   const skipped = []
   const seenIds = new Map()
 
   for (const line of lines) {
-    const priceMatch = line.match(/\$\s*([\d.]+)\s*$/)
+    const priceMatch = line.match(/\$\s*([\d.,]+)\s*$/)
     if (!priceMatch) {
       skipped.push(line)
       continue
     }
-    const priceArs = Number(priceMatch[1].replace(/\./g, ''))
-    if (!Number.isFinite(priceArs) || priceArs <= 0) {
+    const precioProveedor = Number(priceMatch[1].replace(/,/g, ''))
+    if (!Number.isFinite(precioProveedor) || precioProveedor <= 0) {
       skipped.push(line)
       continue
     }
 
-    const rawTitle = line.slice(0, priceMatch.index).trim()
+    const rawTitle = line.slice(0, priceMatch.index).replace(/-\s*$/, '').trim()
     if (!rawTitle) {
       skipped.push(line)
       continue
@@ -93,7 +94,17 @@ async function main() {
     seenIds.set(id, count + 1)
     if (count > 0) id = `${id}-${count}`
 
-    games.push({ id, title: displayTitle, platform, priceArs })
+    const priceArs = calcularPrecioFinal(precioProveedor)
+    const previous = existingById.get(id)
+
+    games.push({
+      id,
+      title: displayTitle,
+      platform,
+      priceArs,
+      ...(previous?.videoId ? { videoId: previous.videoId } : {}),
+      ...(previous?.coverImageUrl ? { coverImageUrl: previous.coverImageUrl } : {}),
+    })
   }
 
   games.sort((a, b) => a.title.localeCompare(b.title, 'es'))
@@ -103,15 +114,14 @@ async function main() {
       offerExpiration,
       totalCount: games.length,
       generatedAt: new Date().toISOString(),
-      sourceFile: 'lista_juegos.pdf',
+      sourceFile: 'lista_proveedor.txt',
     },
     games,
   }
 
   await writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2), 'utf-8')
 
-  console.log(`Parsed ${games.length} games.`)
-  console.log(`Offer expiration: ${offerExpiration ?? 'NOT FOUND'}`)
+  console.log(`Calculados ${games.length} precios finales (margen ${Math.round((MARGEN - 1) * 100)}%, redondeo a $${REDONDEO}).`)
   console.log(`Skipped ${skipped.length} lines:`)
   for (const line of skipped) console.log(`  SKIPPED: ${line}`)
 }
