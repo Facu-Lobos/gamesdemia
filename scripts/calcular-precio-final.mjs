@@ -26,6 +26,7 @@ function cleanTitle(rawTitle) {
   return rawTitle
     .replace(/[™®]️?/g, '')
     .replace(/■/g, '')
+    .replace(/\u{1F48E}/gu, '')
     .replace(/\s+/g, ' ')
     .trim()
 }
@@ -54,7 +55,7 @@ async function main() {
   const existing = JSON.parse(await readFile(OUTPUT_PATH, 'utf-8'))
   const existingById = new Map(existing.games.map((g) => [g.id, g]))
 
-  const expiryMatch = raw.match(/v[aá]lidas?\s+hasta:?\s*(\d{1,2}\/\d{1,2}\/\d{4})/i)
+  const expiryMatch = raw.match(/(?:v[aá]lidas?\s+hasta:?|hasta\s+el\s+d[ií]a)\s*(\d{1,2}\/\d{1,2}\/\d{4})/i)
   const offerExpiration = expiryMatch ? expiryMatch[1] : existing.meta.offerExpiration
 
   const lines = raw
@@ -62,12 +63,17 @@ async function main() {
     .map((l) => l.trim())
     .filter((l) => l.length > 0)
     .filter((l) => !/^Ofertas\s+v[aá]lidas/i.test(l))
+    .filter((l) => !/OFERTAS\s+DESTACADAS/i.test(l))
 
   const games = []
   const skipped = []
   const seenIds = new Map()
+  const seenLines = new Set()
 
   for (const line of lines) {
+    const lineKey = line.replace(/\s+/g, ' ')
+    if (seenLines.has(lineKey)) continue // duplicado exacto en la lista
+    seenLines.add(lineKey)
     const priceMatch = line.match(/\$\s*([\d.,]+)\s*$/)
     if (!priceMatch) {
       skipped.push(line)

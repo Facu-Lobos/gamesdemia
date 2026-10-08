@@ -10,6 +10,7 @@
     "preview": "vite preview",
     "calcular-precio-final": "node scripts/calcular-precio-final.mjs",
     "enrich-videos": "node scripts/enrich-videos.mjs",
+    "enrich-videos-ytdlp": "node scripts/enrich-videos-ytdlp.mjs",
     "enrich-covers": "node scripts/enrich-covers.mjs",
     "enrich-covers-tgdb": "node scripts/enrich-covers-tgdb.mjs"
   },
