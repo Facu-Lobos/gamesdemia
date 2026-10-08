@@ -19,6 +19,7 @@ export function GameCard({ game, onOpen }: { game: Game; onOpen: (game: Game) =>
           <h3 className="line-clamp-2 flex-1 text-sm font-semibold leading-snug text-white">{game.title}</h3>
         </div>
         <PlatformBadge platform={game.platform} />
+        {game.description && <p className="text-xs font-medium text-neon-blue">{game.description}</p>}
         <div className="mt-auto flex items-center justify-between gap-2 pt-2">
           <PriceTag priceArs={game.priceArs} />
         </div>

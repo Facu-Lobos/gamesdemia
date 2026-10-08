@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const SOURCE_PATH = path.join(__dirname, '..', 'data-source', 'lista_proveedor.txt')
+const MANUAL_PATH = path.join(__dirname, '..', 'data-source', 'juegos_manuales.json')
 const OUTPUT_PATH = path.join(__dirname, '..', 'src', 'data', 'games.json')
 
 const MARGEN = 1.4 // 40% de ganancia sobre el precio de proveedor
@@ -108,6 +109,19 @@ async function main() {
       title: displayTitle,
       platform,
       priceArs,
+      ...(previous?.videoId ? { videoId: previous.videoId } : {}),
+      ...(previous?.coverImageUrl ? { coverImageUrl: previous.coverImageUrl } : {}),
+    })
+  }
+
+  // Juegos cargados a mano (cuenta primaria) con precio de proveedor; mismo margen y redondeo.
+  const manuales = JSON.parse(await readFile(MANUAL_PATH, 'utf-8'))
+  for (const m of manuales) {
+    const previous = existingById.get(m.id)
+    const { precioProveedor, ...rest } = m
+    games.push({
+      ...rest,
+      priceArs: calcularPrecioFinal(precioProveedor),
       ...(previous?.videoId ? { videoId: previous.videoId } : {}),
       ...(previous?.coverImageUrl ? { coverImageUrl: previous.coverImageUrl } : {}),
     })

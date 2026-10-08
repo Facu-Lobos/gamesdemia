@@ -26,3 +26,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+video/cookies.txt
+
+video/node_modules
+video/public/clips
+video/out

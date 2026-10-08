@@ -5,6 +5,7 @@ export interface Game {
   title: string
   platform: Platform
   priceArs: number
+  description?: string
   videoId?: string
   coverImageUrl?: string
 }

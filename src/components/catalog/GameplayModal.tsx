@@ -31,6 +31,7 @@ export function GameplayModal({ game, onClose }: { game: Game; onClose: () => vo
           <div>
             <PlatformBadge platform={game.platform} />
             <h3 className="mt-2 font-display text-2xl tracking-wide text-white">{game.title}</h3>
+            {game.description && <p className="mt-1 text-sm font-medium text-neon-blue">{game.description}</p>}
           </div>
           <button
             onClick={onClose}
