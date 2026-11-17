@@ -1,4 +1,5 @@
 [
+  {"id": "ea-fc-27", "title": "EA FC 27", "platform": "PS4/PS5", "precioProveedor": 25000},
   {"id": "gta-6-standard", "title": "Grand Theft Auto VI - Standard Edition", "platform": "PS5", "description": "Consultar stock", "precioProveedor": 64286},
   {"id": "gta-6-ultimate", "title": "Grand Theft Auto VI - Ultimate Edition", "platform": "PS5", "description": "Consultar stock", "precioProveedor": 76000}
 ]
