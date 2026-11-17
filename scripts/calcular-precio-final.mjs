@@ -28,6 +28,7 @@ function cleanTitle(rawTitle) {
     .replace(/[™®]️?/g, '')
     .replace(/■/g, '')
     .replace(/\u{1F48E}/gu, '')
+    .replace(/[☀️]/g, '')
     .replace(/\s+/g, ' ')
     .trim()
 }
@@ -47,6 +48,7 @@ function stripPlatformTokens(title) {
     .replace(/\bPS4\s*\/?\s*PS5\b/gi, '')
     .replace(/\bPS5\b/gi, '')
     .replace(/\bPS4\b/gi, '')
+    .replace(/\s*&\s*$/, '')
     .replace(/\s+/g, ' ')
     .trim()
 }

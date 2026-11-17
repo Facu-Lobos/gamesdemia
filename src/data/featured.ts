@@ -4,36 +4,33 @@ import type { Game } from "./types"
 // Los más llamativos del stock actual (lista_proveedor.txt): rearmar en cada actualización de la lista.
 // Se matchea por substring normalizado; si ninguna coincide, esa entrada simplemente no aparece.
 // Juegos fijos al principio de destacados (por id), en este orden.
-const PINNED_IDS = ["gta-6-standard", "gta-6-ultimate", "ea-sports-fc-27-ps5", "ea-sports-fc-27-ps4"]
+const PINNED_IDS = ["gta-6-standard", "gta-6-ultimate", "ea-fc-27"]
 
 const FEATURED_KEYWORDS = [
-  "resident evil requiem",
-  "spider-man 2",
-  "red dead redemption 2: ultimate",
-  "final fantasy vii rebirth",
-  "hogwarts legacy",
+  "wolverine",
+  "007 first light",
+  "death stranding 2",
+  "astro bot",
+  "god of war ragnar",
   "horizon forbidden west",
-  "the last of us part i",
-  "cyberpunk 2077",
-  "monster hunter wilds",
-  "tekken 8",
-  "mortal kombat 1: definitive",
-  "grand theft auto v",
-  "indiana jones",
+  "silent hill f",
   "silent hill 2",
-  "pragmata",
-  "kingdom come: deliverance ii",
-  "dying light: the beast",
-  "days gone remastered",
-  "death stranding",
-  "demons souls",
-  "bloodborne",
+  "tekken 8",
+  "mafia: the old country",
+  "miles morales",
+  "nioh 3",
+  "mortal shell ii",
+  "dark souls iii",
+  "hitman",
+  "dispatch",
+  "lost soul aside",
+  "dragon ball z: kakarot",
+  "rise of the ronin",
+  "sackboy",
+  "diablo",
+  "the last of us",
   "ratchet & clank",
-  "uncharted",
-  "star wars jedi: survivor",
-  "assassins creed valhalla ragn",
-  "persona 5 royal",
-  "lies of p",
+  "yakuza kiwami",
 ]
 
 export function getFeaturedGames(games: Game[]): Game[] {
